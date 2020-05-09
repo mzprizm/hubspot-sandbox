@@ -1,0 +1,140 @@
+{
+  "isAvailableForNewContent" : true,
+  "templateType" : 18,
+  "attachedStylesheets" : [ ],
+  "attachedJs" : [ ],
+  "customHead" : "",
+  "customFooter" : "",
+  "bodyClass" : "",
+  "bodyCss" : "",
+  "bodyEditable" : false,
+  "layoutData" : {
+    "x" : 0,
+    "w" : 12,
+    "name" : "",
+    "label" : "",
+    "type" : "cell",
+    "params" : { },
+    "rows" : [ {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_155145589318740",
+        "label" : "Image",
+        "type" : "custom_widget",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "img" : {
+            "alt" : "vestaboard--press-assets--eleanor-16-9",
+            "height" : 903,
+            "src" : "https://cdn2.hubspot.net/hubfs/1984131/Press%20-%20Assets/vestaboard--press-assets--eleanor-16-9.png",
+            "width" : 1606
+          },
+          "overrideable" : false,
+          "path" : "@hubspot/linked_image",
+          "per_widget_wrapper_html" : "",
+          "schema_version" : 2,
+          "widget_name" : "Image",
+          "wrapping_html" : ""
+        },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_153781369314587",
+        "label" : "Rich text",
+        "type" : "rich_text",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "html" : "<p style=\"text-align: left; line-height: 1.25; font-size: 18px;\">&nbsp;</p>\n<p style=\"text-align: left; line-height: 1.25; font-size: 24px;\">Vestaboard&nbsp; &nbsp;<span style=\"font-size: 18px;\">$2,250</span></p>\n<p style=\"text-align: left; line-height: 1.25; font-size: 18px;\">Vestaboard is in&nbsp;production and we&nbsp;expect delivery to customers&nbsp;to begin this Fall.</p>\n<p style=\"text-align: left; line-height: 1.25; font-size: 18px;\">With $3.7m in reservations, if&nbsp;you&nbsp;place your reservation today you are expected to&nbsp;receive your Vestaboard in Summer 2020.</p>\n<p style=\"text-align: left; line-height: 1.25; font-size: 18px;\">A&nbsp;deposit of $1,125 is due now. The remaining 50% + shipping and taxes will be&nbsp;due&nbsp;prior to shipping.&nbsp;You will be invited to our customer portal for updates and we&nbsp;will collect your shipping address closer to the time.</p>",
+          "overrideable" : false,
+          "per_widget_wrapper_html" : "",
+          "wrapping_html" : ""
+        },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_1539100720797763",
+        "label" : "Call-to-Action",
+        "type" : "custom_widget",
+        "params" : {
+          "css_class" : "v-launch__cta",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "guid" : "73e8d6c9-28e4-4fa9-b828-fbdc20c88a4a",
+          "overrideable" : false,
+          "path" : "@hubspot/cta",
+          "per_widget_wrapper_html" : "",
+          "schema_version" : 2,
+          "widget_name" : "Call-to-Action",
+          "wrapping_html" : ""
+        },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_1557810231131156",
+        "label" : "Rich Text",
+        "type" : "custom_widget",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "html" : "<p style=\"text-align: left; font-size: 18px;\"><strong>Even better with two:</strong><span>&nbsp;</span>Vestaboard can be&nbsp;messaged from afar from your mobile device and kept in sync with other Vestaboards.&nbsp; If you are&nbsp;excited about keeping customers or team members informed, or want to give another Vestaboard to a loved one to&nbsp;share inspirational quotes, fun messages or calendar items, you can&nbsp;<a href=\"https://order.vestaboard.com/?offerId=D54EF1B1-FAAC-4265-85B8-694E1E074FF7\" rel=\" noopener\">reserve 2 or more and save $600</a>.</p>\n<p style=\"text-align: left; font-size: 18px;\"><strong>Trade program:</strong><span>&nbsp;</span>Architect and designers can&nbsp;<a href=\"/trade\" rel=\" noopener\">contact us</a><span>&nbsp;</span>for special discounts and terms.&nbsp;</p>",
+          "overrideable" : false,
+          "path" : "@hubspot/rich_text",
+          "per_widget_wrapper_html" : "",
+          "schema_version" : 2,
+          "widget_name" : "Rich Text",
+          "wrapping_html" : ""
+        },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    } ],
+    "rowMetaData" : [ ],
+    "cells" : [ ],
+    "cssId" : "",
+    "cssClass" : "",
+    "cssStyle" : "",
+    "styles" : null
+  }
+}

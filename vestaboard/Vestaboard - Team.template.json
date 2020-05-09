@@ -1,0 +1,425 @@
+{
+  "isAvailableForNewContent" : true,
+  "templateType" : 4,
+  "attachedStylesheets" : [ ],
+  "attachedJs" : [ ],
+  "customHead" : "",
+  "customFooter" : "",
+  "bodyClass" : "",
+  "bodyCss" : "",
+  "bodyEditable" : false,
+  "layoutData" : {
+    "x" : 0,
+    "w" : 12,
+    "name" : "",
+    "label" : "",
+    "type" : "cell",
+    "params" : { },
+    "rows" : [ {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_1537815980714162",
+        "label" : "Vestaboard - Header",
+        "type" : "custom_widget",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : true,
+          "per_widget_wrapper_html" : "",
+          "schema_version" : 2,
+          "widget_name" : "Vestaboard - Header",
+          "wrapping_html" : "",
+          "path" : "/Global content/Global Groups/Vestaboard/Vestaboard - Header"
+        },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "",
+        "label" : "",
+        "type" : "section_delimiter",
+        "params" : { },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_153781262053265",
+        "label" : "Page & Content Container",
+        "type" : "cell",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : false,
+          "per_widget_wrapper_html" : "",
+          "wrapping_html" : "<div class=\"page-container content-container content-container--narrow v-header--offset\">\n  <div class=\"v-team\">\n  \t{{html}}\n  </div>\n</div>"
+        },
+        "rows" : [ {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_153781186906228",
+            "label" : "Header",
+            "type" : "header",
+            "params" : {
+              "css_class" : "v-team__header",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "header_tag" : "h1",
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "value" : "We are the team that is bringing Vestaboard to life",
+              "wrapping_html" : ""
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "v-team__header",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_1540498725931582",
+            "label" : "Vestaboard - Team - Group",
+            "type" : "custom_widget",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "group_header" : "Our leadership, key team members and advisors have worked on hardware and software for decades",
+              "member" : [ {
+                "member_description" : "Dorrian is our founder and CEO",
+                "member_image" : {
+                  "alt" : "Dorrian Porter",
+                  "height" : 200,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Team/Dorrian+Porter.jpg",
+                  "width" : 200
+                }
+              }, {
+                "member_description" : "Faiza leads product design",
+                "member_image" : {
+                  "alt" : "Faiza Hassan",
+                  "height" : 200,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Team/Faiza+Hassan.jpg",
+                  "width" : 200
+                }
+              }, {
+                "member_description" : "Ian handles operations",
+                "member_image" : {
+                  "alt" : "Ian Guyer",
+                  "height" : 200,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Team/Ian+Guyer.jpg",
+                  "width" : 200
+                }
+              }, {
+                "member_description" : "Carolyn runs communications",
+                "member_image" : {
+                  "alt" : "Carolyn",
+                  "height" : 200,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Team/Carolyn.jpg",
+                  "width" : 200
+                }
+              }, {
+                "member_description" : "Chris guides our cloud product",
+                "member_image" : {
+                  "alt" : "Chris Jelly",
+                  "height" : 200,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Team/Chris+Jelly.jpg",
+                  "width" : 200
+                }
+              }, {
+                "member_description" : "Zulema helps inbound accounts",
+                "member_image" : {
+                  "alt" : "Zulema",
+                  "height" : 200,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Team/Zulema.jpg",
+                  "width" : 200
+                }
+              }, {
+                "member_description" : "Andrea works on embedded systems",
+                "member_image" : {
+                  "alt" : "Andrea Mucignat",
+                  "height" : 200,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Team/Andrea+Mucignat.jpg",
+                  "width" : 200
+                }
+              }, {
+                "member_description" : "Theresa supports customers",
+                "member_image" : {
+                  "alt" : "Theresa",
+                  "height" : 200,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Team/Theresa.jpg",
+                  "width" : 200
+                }
+              }, {
+                "member_description" : "Jared leads hospitality",
+                "member_image" : {
+                  "alt" : "Jared Bourgeois",
+                  "height" : 200,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Team/Jared+Bourgeois.jpg",
+                  "width" : 200
+                }
+              }, {
+                "member_description" : "Mia oversees our trade program",
+                "member_image" : {
+                  "alt" : "Mia Sandvoll",
+                  "height" : 200,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Team/Mia+Sandvoll.jpg",
+                  "width" : 200
+                }
+              }, {
+                "member_description" : "Jeff designs mechanical things",
+                "member_image" : {
+                  "alt" : "Jeff",
+                  "height" : 200,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Team/Jeff.jpg",
+                  "width" : 200
+                }
+              }, {
+                "member_description" : "Isabelle works on e-commerce",
+                "member_image" : {
+                  "alt" : "Isabelle Steiner",
+                  "height" : 200,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Team/Isabelle+Steiner.jpg",
+                  "width" : 200
+                }
+              }, {
+                "member_description" : "Karl advises on hardware",
+                "member_image" : {
+                  "alt" : "Karl Townsend",
+                  "height" : 200,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Team/Karl+Townsend.jpg",
+                  "width" : 200
+                }
+              }, {
+                "member_description" : "Kristin navigates legal matters",
+                "member_image" : {
+                  "alt" : "Kristin Keeffe",
+                  "height" : 200,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Team/Kristin+Keeffe.jpg",
+                  "width" : 200
+                }
+              }, {
+                "member_description" : "Brian advises on electrical design",
+                "member_image" : {
+                  "alt" : "Brian",
+                  "height" : 200,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Team/Brian.jpg",
+                  "width" : 200
+                }
+              } ],
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Vestaboard - Team - Group",
+              "wrapping_html" : "",
+              "path" : "/Custom modules/Vestaboard - Team - Group"
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_1540498946306758",
+            "label" : "Vestaboard - Team - Group",
+            "type" : "custom_widget",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "group_header" : "Bould Design is responsible for our industrial design ",
+              "member" : [ {
+                "member_description" : "bould design",
+                "member_image" : {
+                  "alt" : "bould design",
+                  "height" : 200,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Team/bould+design.png",
+                  "width" : 200
+                }
+              }, {
+                "member_description" : "Fred Bould",
+                "member_image" : {
+                  "alt" : "Fred Bould",
+                  "height" : 200,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Team/Fred+Bould.jpg",
+                  "width" : 200
+                }
+              }, {
+                "member_description" : "Anson Cheung",
+                "member_image" : {
+                  "alt" : "Anson Cheung",
+                  "height" : 200,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Team/Anson+Cheung.jpg",
+                  "width" : 200
+                }
+              }, {
+                "member_description" : "Tristan Cannan",
+                "member_image" : {
+                  "alt" : "Tristan Cannan",
+                  "height" : 200,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Team/Tristan+Cannan.jpg",
+                  "width" : 200
+                }
+              } ],
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Vestaboard - Team - Group",
+              "wrapping_html" : "",
+              "path" : "/Custom modules/Vestaboard - Team - Group"
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_1540498948275768",
+            "label" : "Vestaboard - Team - Group",
+            "type" : "custom_widget",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "group_header" : "Zao Tech is establishing our manufacturing and supply chain",
+              "member" : [ {
+                "member_description" : "Zao Tech",
+                "member_image" : {
+                  "alt" : "Zao Tech",
+                  "height" : 200,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Team/Zao+Tech.png",
+                  "width" : 200
+                }
+              }, {
+                "member_description" : "Scott Bowie",
+                "member_image" : {
+                  "alt" : "Scott Bowie",
+                  "height" : 200,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Team/Scott+Bowie.jpg",
+                  "width" : 200
+                }
+              }, {
+                "member_description" : "Dennis Arnow",
+                "member_image" : {
+                  "alt" : "Dennis Arnow",
+                  "height" : 200,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Team/Dennis+Arnow.jpg",
+                  "width" : 200
+                }
+              } ],
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Vestaboard - Team - Group",
+              "wrapping_html" : "",
+              "path" : "/Custom modules/Vestaboard - Team - Group"
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        } ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "",
+        "label" : "",
+        "type" : "section_delimiter",
+        "params" : { },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_1537819885645251",
+        "label" : "Vestaboard - Footer",
+        "type" : "custom_widget",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : true,
+          "per_widget_wrapper_html" : "",
+          "schema_version" : 2,
+          "widget_name" : "Vestaboard - Footer",
+          "wrapping_html" : "",
+          "path" : "/Global content/Global Groups/Vestaboard/Vestaboard - Footer"
+        },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    } ],
+    "rowMetaData" : [ ],
+    "cells" : [ ],
+    "cssId" : "",
+    "cssClass" : "",
+    "cssStyle" : "",
+    "styles" : null
+  }
+}

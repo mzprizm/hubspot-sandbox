@@ -1,0 +1,244 @@
+{
+  "isAvailableForNewContent" : true,
+  "templateType" : 4,
+  "attachedStylesheets" : [ ],
+  "attachedJs" : [ ],
+  "customHead" : "",
+  "customFooter" : "",
+  "bodyClass" : "",
+  "bodyCss" : "",
+  "bodyEditable" : false,
+  "layoutData" : {
+    "x" : 0,
+    "w" : 12,
+    "name" : "",
+    "label" : "",
+    "type" : "cell",
+    "params" : { },
+    "rows" : [ {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_1537815980714162",
+        "label" : "Vestaboard - Header",
+        "type" : "custom_widget",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : true,
+          "per_widget_wrapper_html" : "",
+          "schema_version" : 2,
+          "widget_name" : "Vestaboard - Header",
+          "wrapping_html" : "",
+          "path" : "/Global content/Global Groups/Vestaboard/Vestaboard - Header"
+        },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "",
+        "label" : "",
+        "type" : "section_delimiter",
+        "params" : { },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_153781262053265",
+        "label" : "Page & Content Container",
+        "type" : "cell",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : false,
+          "per_widget_wrapper_html" : "",
+          "wrapping_html" : "<div class=\"page-container content-container content-container--narrow v-header--offset\">\n  <div class=\"v-team\">\n  \t{{html}}\n  </div>\n</div>"
+        },
+        "rows" : [ {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_1549857040211136",
+            "label" : "Rich Text",
+            "type" : "custom_widget",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Rich Text",
+              "wrapping_html" : "",
+              "path" : "@hubspot/rich_text"
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_154984472636476",
+            "label" : "Image Gallery",
+            "type" : "custom_widget",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Image Gallery",
+              "wrapping_html" : "",
+              "path" : "@hubspot/gallery"
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_1549833123924327",
+            "label" : "Rich Text",
+            "type" : "custom_widget",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Rich Text",
+              "wrapping_html" : "",
+              "path" : "@hubspot/rich_text"
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_1549832787896183",
+            "label" : "Form",
+            "type" : "custom_widget",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Form",
+              "wrapping_html" : "",
+              "path" : "@hubspot/form"
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        } ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "",
+        "label" : "",
+        "type" : "section_delimiter",
+        "params" : { },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_1537819885645251",
+        "label" : "Vestaboard - Footer",
+        "type" : "custom_widget",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : true,
+          "per_widget_wrapper_html" : "",
+          "schema_version" : 2,
+          "widget_name" : "Vestaboard - Footer",
+          "wrapping_html" : "",
+          "path" : "/Global content/Global Groups/Vestaboard/Vestaboard - Footer"
+        },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    } ],
+    "rowMetaData" : [ ],
+    "cells" : [ ],
+    "cssId" : "",
+    "cssClass" : "",
+    "cssStyle" : "",
+    "styles" : null
+  }
+}

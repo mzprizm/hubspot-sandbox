@@ -1,0 +1,903 @@
+{
+  "isAvailableForNewContent" : true,
+  "templateType" : 4,
+  "attachedStylesheets" : [ {
+    "type" : "cos_extension_resource",
+    "path" : "/Custom/page/Vestaboard/vestaboard-product.css"
+  } ],
+  "attachedJs" : [ ],
+  "customHead" : "",
+  "customFooter" : "",
+  "bodyClass" : "",
+  "bodyCss" : "",
+  "bodyEditable" : false,
+  "layoutData" : {
+    "x" : 0,
+    "w" : 12,
+    "name" : "",
+    "label" : "",
+    "type" : "cell",
+    "params" : { },
+    "rows" : [ {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_157195437941314",
+        "label" : "Vestaboard - Header",
+        "type" : "custom_widget",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : true,
+          "path" : "/Global content/Global Groups/Vestaboard/Vestaboard - Header",
+          "per_widget_wrapper_html" : "",
+          "schema_version" : 2,
+          "widget_name" : "Vestaboard - Header",
+          "wrapping_html" : ""
+        },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "",
+        "label" : "",
+        "type" : "section_delimiter",
+        "params" : { },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_157195457176754",
+        "label" : "Module group",
+        "type" : "cell",
+        "params" : {
+          "css_class" : "page-container",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "padding: 100px 0 0;",
+          "overrideable" : false,
+          "per_widget_wrapper_html" : "",
+          "wrapping_html" : ""
+        },
+        "rows" : [ {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_157195471661994",
+            "label" : "Menu",
+            "type" : "custom_widget",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "text-align: center; font-weight: bold;",
+              "id" : 19257164388,
+              "max_levels" : "1",
+              "overrideable" : false,
+              "path" : "@hubspot/menu",
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Menu",
+              "wrapping_html" : ""
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "text-align: center; font-weight: bold;",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_157195459745664",
+            "label" : "Module group",
+            "type" : "cell",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "overrideable" : false,
+              "per_widget_wrapper_html" : "",
+              "wrapping_html" : ""
+            },
+            "rows" : [ {
+              "0" : {
+                "x" : 0,
+                "w" : 12,
+                "name" : "module_1571956073141376",
+                "label" : "Header",
+                "type" : "custom_widget",
+                "params" : {
+                  "css_class" : "vestaboard-product-header",
+                  "css_id" : "",
+                  "css_id_str" : "",
+                  "css_style" : "",
+                  "overrideable" : true,
+                  "path" : "@hubspot/header",
+                  "per_widget_wrapper_html" : "",
+                  "schema_version" : 2,
+                  "value" : "Welcome to Your Vestaboard",
+                  "widget_name" : "Header",
+                  "wrapping_html" : ""
+                },
+                "rows" : [ ],
+                "rowMetaData" : [ ],
+                "cells" : [ ],
+                "cssId" : "",
+                "cssClass" : "vestaboard-product-header",
+                "cssStyle" : "",
+                "styles" : null
+              }
+            }, {
+              "0" : {
+                "x" : 0,
+                "w" : 12,
+                "name" : "module_1571956757318530",
+                "label" : "Header",
+                "type" : "custom_widget",
+                "params" : {
+                  "css_class" : "vestaboard-product-header",
+                  "css_id" : "",
+                  "css_id_str" : "",
+                  "css_style" : "",
+                  "header_tag" : "h2",
+                  "overrideable" : true,
+                  "path" : "@hubspot/header",
+                  "per_widget_wrapper_html" : "",
+                  "schema_version" : 2,
+                  "value" : "If your mission is to inspire the people around you, you've found the perfect display.",
+                  "widget_name" : "Header",
+                  "wrapping_html" : ""
+                },
+                "rows" : [ ],
+                "rowMetaData" : [ ],
+                "cells" : [ ],
+                "cssId" : "",
+                "cssClass" : "vestaboard-product-header",
+                "cssStyle" : "",
+                "styles" : null
+              }
+            }, {
+              "0" : {
+                "x" : 0,
+                "w" : 12,
+                "name" : "module_15719584416121206",
+                "label" : "Module group",
+                "type" : "cell",
+                "params" : {
+                  "css_class" : "",
+                  "css_id" : "",
+                  "css_id_str" : "",
+                  "css_style" : "padding: 30px 0 30px;",
+                  "overrideable" : false,
+                  "per_widget_wrapper_html" : "",
+                  "wrapping_html" : ""
+                },
+                "rows" : [ {
+                  "0" : {
+                    "x" : 0,
+                    "w" : 7,
+                    "name" : "module_1572393674072424",
+                    "label" : "Module group",
+                    "type" : "cell",
+                    "params" : {
+                      "css_class" : "vestaboard-product-row_section",
+                      "css_id" : "",
+                      "css_id_str" : "",
+                      "css_style" : "text-align: right;",
+                      "overrideable" : false,
+                      "per_widget_wrapper_html" : "",
+                      "wrapping_html" : ""
+                    },
+                    "rows" : [ {
+                      "0" : {
+                        "x" : 0,
+                        "w" : 12,
+                        "name" : "module_1571956298607446",
+                        "label" : "Image",
+                        "type" : "custom_widget",
+                        "params" : {
+                          "css_class" : "",
+                          "css_id" : "",
+                          "css_id_str" : "",
+                          "css_style" : "",
+                          "img" : {
+                            "alt" : "vestaboard product shot_smallweb",
+                            "height" : 324,
+                            "max_height" : 400,
+                            "max_width" : 711,
+                            "size_type" : "auto",
+                            "src" : "https://cdn2.hubspot.net/hubfs/1984131/2018%20Product%20Imagery/vestaboard%20product%20shot_smallweb.jpg",
+                            "width" : 576
+                          },
+                          "overrideable" : true,
+                          "path" : "@hubspot/linked_image",
+                          "per_widget_wrapper_html" : "",
+                          "schema_version" : 2,
+                          "widget_name" : "Image",
+                          "wrapping_html" : ""
+                        },
+                        "rows" : [ ],
+                        "rowMetaData" : [ ],
+                        "cells" : [ ],
+                        "cssId" : "",
+                        "cssClass" : "",
+                        "cssStyle" : "",
+                        "styles" : null
+                      }
+                    } ],
+                    "rowMetaData" : [ ],
+                    "cells" : [ ],
+                    "cssId" : "",
+                    "cssClass" : "vestaboard-product-row_section",
+                    "cssStyle" : "text-align: right;",
+                    "styles" : null
+                  },
+                  "7" : {
+                    "x" : 7,
+                    "w" : 5,
+                    "name" : "module_15719620539691343",
+                    "label" : "Module group",
+                    "type" : "cell",
+                    "params" : {
+                      "css_class" : "vestaboard-product-row_section",
+                      "css_id" : "",
+                      "css_id_str" : "",
+                      "css_style" : "",
+                      "overrideable" : false,
+                      "per_widget_wrapper_html" : "",
+                      "wrapping_html" : ""
+                    },
+                    "rows" : [ {
+                      "0" : {
+                        "x" : 0,
+                        "w" : 12,
+                        "name" : "module_15719620612071344",
+                        "label" : "Rich Text",
+                        "type" : "custom_widget",
+                        "params" : {
+                          "css_class" : "",
+                          "css_id" : "",
+                          "css_id_str" : "",
+                          "css_style" : "",
+                          "html" : "<p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dui vivamus arcu felis bibendum ut tristique et egestas. Purus sit amet luctus venenatis lectus magna. Ac feugiat sed lectus vestibulum mattis ullamcorper velit. Leo a diam sollicitudin tempor id eu nisl.</span></p>",
+                          "overrideable" : true,
+                          "path" : "@hubspot/rich_text",
+                          "per_widget_wrapper_html" : "",
+                          "schema_version" : 2,
+                          "widget_name" : "Rich Text",
+                          "wrapping_html" : ""
+                        },
+                        "rows" : [ ],
+                        "rowMetaData" : [ ],
+                        "cells" : [ ],
+                        "cssId" : "",
+                        "cssClass" : "",
+                        "cssStyle" : "",
+                        "styles" : null
+                      }
+                    }, {
+                      "0" : {
+                        "x" : 0,
+                        "w" : 12,
+                        "name" : "module_15719620649621347",
+                        "label" : "Call-to-Action",
+                        "type" : "custom_widget",
+                        "params" : {
+                          "css_class" : "",
+                          "css_id" : "",
+                          "css_id_str" : "",
+                          "css_style" : "",
+                          "guid" : "4d8a3543-55cb-404c-a61b-933a212fdd00",
+                          "overrideable" : true,
+                          "path" : "@hubspot/cta",
+                          "per_widget_wrapper_html" : "",
+                          "schema_version" : 2,
+                          "widget_name" : "Call-to-Action",
+                          "wrapping_html" : ""
+                        },
+                        "rows" : [ ],
+                        "rowMetaData" : [ ],
+                        "cells" : [ ],
+                        "cssId" : "",
+                        "cssClass" : "",
+                        "cssStyle" : "",
+                        "styles" : null
+                      }
+                    } ],
+                    "rowMetaData" : [ ],
+                    "cells" : [ ],
+                    "cssId" : "",
+                    "cssClass" : "vestaboard-product-row_section",
+                    "cssStyle" : "",
+                    "styles" : null
+                  }
+                } ],
+                "rowMetaData" : [ ],
+                "cells" : [ ],
+                "cssId" : "",
+                "cssClass" : "",
+                "cssStyle" : "padding: 30px 0 30px;",
+                "styles" : null
+              }
+            } ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_157195457810460",
+            "label" : "Module group",
+            "type" : "cell",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "overrideable" : false,
+              "per_widget_wrapper_html" : "",
+              "wrapping_html" : ""
+            },
+            "rows" : [ {
+              "0" : {
+                "x" : 0,
+                "w" : 6,
+                "name" : "module_1572395160297381",
+                "label" : "Module group",
+                "type" : "cell",
+                "params" : {
+                  "css_class" : "vestaboard-product-row_section",
+                  "css_id" : "",
+                  "css_id_str" : "",
+                  "css_style" : "text-align: right;",
+                  "overrideable" : false,
+                  "per_widget_wrapper_html" : "",
+                  "wrapping_html" : ""
+                },
+                "rows" : [ {
+                  "0" : {
+                    "x" : 0,
+                    "w" : 12,
+                    "name" : "module_1571956285881422",
+                    "label" : "Image",
+                    "type" : "custom_widget",
+                    "params" : {
+                      "css_class" : "testing",
+                      "css_id" : "",
+                      "css_id_str" : "",
+                      "css_style" : "",
+                      "img" : {
+                        "alt" : "vestaboard--press-assets--eleanor-1-1",
+                        "height" : 500,
+                        "max_height" : 500,
+                        "max_width" : 500,
+                        "size_type" : "auto",
+                        "src" : "https://cdn2.hubspot.net/hubfs/1984131/Press%20-%20Assets/vestaboard--press-assets--eleanor-1-1.png",
+                        "width" : 500
+                      },
+                      "overrideable" : true,
+                      "path" : "@hubspot/linked_image",
+                      "per_widget_wrapper_html" : "",
+                      "schema_version" : 2,
+                      "widget_name" : "Image",
+                      "wrapping_html" : ""
+                    },
+                    "rows" : [ ],
+                    "rowMetaData" : [ ],
+                    "cells" : [ ],
+                    "cssId" : "",
+                    "cssClass" : "testing",
+                    "cssStyle" : "",
+                    "styles" : null
+                  }
+                } ],
+                "rowMetaData" : [ ],
+                "cells" : [ ],
+                "cssId" : "",
+                "cssClass" : "vestaboard-product-row_section",
+                "cssStyle" : "text-align: right;",
+                "styles" : null
+              },
+              "6" : {
+                "x" : 6,
+                "w" : 6,
+                "name" : "module_1571981331610245",
+                "label" : "Module group",
+                "type" : "cell",
+                "params" : {
+                  "css_class" : "vestaboard-product-row_section",
+                  "css_id" : "",
+                  "css_id_str" : "",
+                  "css_style" : "",
+                  "overrideable" : false,
+                  "per_widget_wrapper_html" : "",
+                  "wrapping_html" : ""
+                },
+                "rows" : [ {
+                  "0" : {
+                    "x" : 0,
+                    "w" : 12,
+                    "name" : "module_1571957551487883",
+                    "label" : "Header",
+                    "type" : "custom_widget",
+                    "params" : {
+                      "css_class" : "vestaboard-product-header",
+                      "css_id" : "",
+                      "css_id_str" : "",
+                      "css_style" : "",
+                      "header_tag" : "h3",
+                      "overrideable" : true,
+                      "path" : "@hubspot/header",
+                      "per_widget_wrapper_html" : "",
+                      "schema_version" : 2,
+                      "value" : "Timeless and Modern Design",
+                      "widget_name" : "Header",
+                      "wrapping_html" : ""
+                    },
+                    "rows" : [ ],
+                    "rowMetaData" : [ ],
+                    "cells" : [ ],
+                    "cssId" : "",
+                    "cssClass" : "vestaboard-product-header",
+                    "cssStyle" : "",
+                    "styles" : null
+                  }
+                }, {
+                  "0" : {
+                    "x" : 0,
+                    "w" : 12,
+                    "name" : "module_1571956182899408",
+                    "label" : "Rich Text",
+                    "type" : "custom_widget",
+                    "params" : {
+                      "css_class" : "",
+                      "css_id" : "",
+                      "css_id_str" : "",
+                      "css_style" : "",
+                      "html" : "<p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dui vivamus arcu felis bibendum ut tristique et egestas. Purus sit amet luctus venenatis lectus magna.</span></p>",
+                      "overrideable" : true,
+                      "path" : "@hubspot/rich_text",
+                      "per_widget_wrapper_html" : "",
+                      "schema_version" : 2,
+                      "widget_name" : "Rich Text",
+                      "wrapping_html" : ""
+                    },
+                    "rows" : [ ],
+                    "rowMetaData" : [ ],
+                    "cells" : [ ],
+                    "cssId" : "",
+                    "cssClass" : "",
+                    "cssStyle" : "",
+                    "styles" : null
+                  }
+                } ],
+                "rowMetaData" : [ ],
+                "cells" : [ ],
+                "cssId" : "",
+                "cssClass" : "vestaboard-product-row_section",
+                "cssStyle" : "",
+                "styles" : null
+              }
+            } ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_157195457627358",
+            "label" : "Module group",
+            "type" : "cell",
+            "params" : {
+              "css_class" : "bg-black-10",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "height: 400px;",
+              "overrideable" : false,
+              "per_widget_wrapper_html" : "",
+              "wrapping_html" : ""
+            },
+            "rows" : [ {
+              "0" : {
+                "x" : 0,
+                "w" : 6,
+                "name" : "module_1572394706962223",
+                "label" : "Module group",
+                "type" : "cell",
+                "params" : {
+                  "css_class" : "vestaboard-product-row_section",
+                  "css_id" : "",
+                  "css_id_str" : "",
+                  "css_style" : "",
+                  "overrideable" : false,
+                  "per_widget_wrapper_html" : "",
+                  "wrapping_html" : ""
+                },
+                "rows" : [ {
+                  "0" : {
+                    "x" : 0,
+                    "w" : 12,
+                    "name" : "module_1571957585787907",
+                    "label" : "Header",
+                    "type" : "custom_widget",
+                    "params" : {
+                      "css_class" : "",
+                      "css_id" : "",
+                      "css_id_str" : "",
+                      "css_style" : "",
+                      "header_tag" : "h3",
+                      "overrideable" : true,
+                      "path" : "@hubspot/header",
+                      "per_widget_wrapper_html" : "",
+                      "schema_version" : 2,
+                      "value" : "Built Bit by Bit",
+                      "widget_name" : "Header",
+                      "wrapping_html" : ""
+                    },
+                    "rows" : [ ],
+                    "rowMetaData" : [ ],
+                    "cells" : [ ],
+                    "cssId" : "",
+                    "cssClass" : "",
+                    "cssStyle" : "",
+                    "styles" : null
+                  }
+                }, {
+                  "0" : {
+                    "x" : 0,
+                    "w" : 12,
+                    "name" : "module_1571956206469412",
+                    "label" : "Rich Text",
+                    "type" : "custom_widget",
+                    "params" : {
+                      "css_class" : "",
+                      "css_id" : "",
+                      "css_id_str" : "",
+                      "css_style" : "",
+                      "overrideable" : true,
+                      "path" : "@hubspot/rich_text",
+                      "per_widget_wrapper_html" : "",
+                      "schema_version" : 2,
+                      "widget_name" : "Rich Text",
+                      "wrapping_html" : ""
+                    },
+                    "rows" : [ ],
+                    "rowMetaData" : [ ],
+                    "cells" : [ ],
+                    "cssId" : "",
+                    "cssClass" : "",
+                    "cssStyle" : "",
+                    "styles" : null
+                  }
+                } ],
+                "rowMetaData" : [ ],
+                "cells" : [ ],
+                "cssId" : "",
+                "cssClass" : "vestaboard-product-row_section",
+                "cssStyle" : "",
+                "styles" : null
+              },
+              "6" : {
+                "x" : 6,
+                "w" : 6,
+                "name" : "module_1572395154924367",
+                "label" : "Module group",
+                "type" : "cell",
+                "params" : {
+                  "css_class" : "vestaboard-product-row_section",
+                  "css_id" : "",
+                  "css_id_str" : "",
+                  "css_style" : "",
+                  "overrideable" : false,
+                  "per_widget_wrapper_html" : "",
+                  "wrapping_html" : ""
+                },
+                "rows" : [ {
+                  "0" : {
+                    "x" : 0,
+                    "w" : 12,
+                    "name" : "module_1571956264868420",
+                    "label" : "Image",
+                    "type" : "custom_widget",
+                    "params" : {
+                      "css_class" : "",
+                      "css_id" : "",
+                      "css_id_str" : "",
+                      "css_style" : "",
+                      "img" : {
+                        "alt" : "BIT",
+                        "height" : 367,
+                        "max_height" : 367,
+                        "max_width" : 366,
+                        "size_type" : "auto",
+                        "src" : "https://cdn2.hubspot.net/hubfs/1984131/Bits/BIT.png",
+                        "width" : 366
+                      },
+                      "overrideable" : true,
+                      "path" : "@hubspot/linked_image",
+                      "per_widget_wrapper_html" : "",
+                      "schema_version" : 2,
+                      "widget_name" : "Image",
+                      "wrapping_html" : ""
+                    },
+                    "rows" : [ ],
+                    "rowMetaData" : [ ],
+                    "cells" : [ ],
+                    "cssId" : "",
+                    "cssClass" : "",
+                    "cssStyle" : "",
+                    "styles" : null
+                  }
+                } ],
+                "rowMetaData" : [ ],
+                "cells" : [ ],
+                "cssId" : "",
+                "cssClass" : "vestaboard-product-row_section",
+                "cssStyle" : "",
+                "styles" : null
+              }
+            } ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "bg-black-10",
+            "cssStyle" : "height: 400px;",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_157195457441056",
+            "label" : "Module group",
+            "type" : "cell",
+            "params" : {
+              "css_class" : "bg-black",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "height: 400px;",
+              "overrideable" : false,
+              "per_widget_wrapper_html" : "",
+              "wrapping_html" : ""
+            },
+            "rows" : [ {
+              "0" : {
+                "x" : 0,
+                "w" : 5,
+                "name" : "module_1572394755562273",
+                "label" : "Module group",
+                "type" : "cell",
+                "params" : {
+                  "css_class" : "vestaboard-product-row_section",
+                  "css_id" : "",
+                  "css_id_str" : "",
+                  "css_style" : "",
+                  "overrideable" : false,
+                  "per_widget_wrapper_html" : "",
+                  "wrapping_html" : ""
+                },
+                "rows" : [ {
+                  "0" : {
+                    "x" : 0,
+                    "w" : 12,
+                    "name" : "module_1571957664543970",
+                    "label" : "Header",
+                    "type" : "custom_widget",
+                    "params" : {
+                      "css_class" : "",
+                      "css_id" : "",
+                      "css_id_str" : "",
+                      "css_style" : "",
+                      "header_tag" : "h3",
+                      "overrideable" : true,
+                      "path" : "@hubspot/header",
+                      "per_widget_wrapper_html" : "",
+                      "schema_version" : 2,
+                      "value" : "Reserve Your Vestaboard",
+                      "widget_name" : "Header",
+                      "wrapping_html" : ""
+                    },
+                    "rows" : [ ],
+                    "rowMetaData" : [ ],
+                    "cells" : [ ],
+                    "cssId" : "",
+                    "cssClass" : "",
+                    "cssStyle" : "",
+                    "styles" : null
+                  }
+                }, {
+                  "0" : {
+                    "x" : 0,
+                    "w" : 12,
+                    "name" : "module_1571956245006418",
+                    "label" : "Call-to-Action",
+                    "type" : "custom_widget",
+                    "params" : {
+                      "css_class" : "",
+                      "css_id" : "",
+                      "css_id_str" : "",
+                      "css_style" : "",
+                      "guid" : "4d8a3543-55cb-404c-a61b-933a212fdd00",
+                      "overrideable" : true,
+                      "path" : "@hubspot/cta",
+                      "per_widget_wrapper_html" : "",
+                      "schema_version" : 2,
+                      "widget_name" : "Call-to-Action",
+                      "wrapping_html" : ""
+                    },
+                    "rows" : [ ],
+                    "rowMetaData" : [ ],
+                    "cells" : [ ],
+                    "cssId" : "",
+                    "cssClass" : "",
+                    "cssStyle" : "",
+                    "styles" : null
+                  }
+                } ],
+                "rowMetaData" : [ ],
+                "cells" : [ ],
+                "cssId" : "",
+                "cssClass" : "vestaboard-product-row_section",
+                "cssStyle" : "",
+                "styles" : null
+              },
+              "5" : {
+                "x" : 5,
+                "w" : 7,
+                "name" : "module_1572395150560352",
+                "label" : "Module group",
+                "type" : "cell",
+                "params" : {
+                  "css_class" : "vestaboard-product-row_section",
+                  "css_id" : "",
+                  "css_id_str" : "",
+                  "css_style" : "",
+                  "overrideable" : false,
+                  "per_widget_wrapper_html" : "",
+                  "wrapping_html" : ""
+                },
+                "rows" : [ {
+                  "0" : {
+                    "x" : 0,
+                    "w" : 12,
+                    "name" : "module_15719577375191030",
+                    "label" : "Image",
+                    "type" : "custom_widget",
+                    "params" : {
+                      "css_class" : "",
+                      "css_id" : "",
+                      "css_id_str" : "",
+                      "css_style" : "",
+                      "img" : {
+                        "alt" : "vestaboard--press-assets--conference-room",
+                        "height" : 333,
+                        "max_height" : 333,
+                        "max_width" : 500,
+                        "size_type" : "auto",
+                        "src" : "https://cdn2.hubspot.net/hubfs/1984131/Press%20-%20Assets/vestaboard--press-assets--conference-room.png",
+                        "width" : 500
+                      },
+                      "overrideable" : true,
+                      "path" : "@hubspot/linked_image",
+                      "per_widget_wrapper_html" : "",
+                      "schema_version" : 2,
+                      "widget_name" : "Image",
+                      "wrapping_html" : ""
+                    },
+                    "rows" : [ ],
+                    "rowMetaData" : [ ],
+                    "cells" : [ ],
+                    "cssId" : "",
+                    "cssClass" : "",
+                    "cssStyle" : "",
+                    "styles" : null
+                  }
+                } ],
+                "rowMetaData" : [ ],
+                "cells" : [ ],
+                "cssId" : "",
+                "cssClass" : "vestaboard-product-row_section",
+                "cssStyle" : "",
+                "styles" : null
+              }
+            } ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "bg-black",
+            "cssStyle" : "height: 400px;",
+            "styles" : null
+          }
+        } ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "page-container",
+        "cssStyle" : "padding: 100px 0 0;",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "",
+        "label" : "",
+        "type" : "section_delimiter",
+        "params" : { },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_157195438421216",
+        "label" : "Vestaboard - Footer",
+        "type" : "custom_widget",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : true,
+          "path" : "/Global content/Global Groups/Vestaboard/Vestaboard - Footer",
+          "per_widget_wrapper_html" : "",
+          "schema_version" : 2,
+          "widget_name" : "Vestaboard - Footer",
+          "wrapping_html" : ""
+        },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    } ],
+    "rowMetaData" : [ ],
+    "cells" : [ ],
+    "cssId" : "",
+    "cssClass" : "",
+    "cssStyle" : "",
+    "styles" : null
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "isAvailableForNewContent" : true,
+  "templateType" : 4,
+  "attachedStylesheets" : [ ],
+  "attachedJs" : [ ],
+  "customHead" : "",
+  "customFooter" : "",
+  "bodyClass" : "",
+  "bodyCss" : "",
+  "bodyEditable" : false,
+  "layoutData" : {
+    "x" : 0,
+    "w" : 12,
+    "name" : "",
+    "label" : "",
+    "type" : "cell",
+    "params" : { },
+    "rows" : [ {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_1537815980714162",
+        "label" : "Vestaboard - Header",
+        "type" : "custom_widget",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : true,
+          "per_widget_wrapper_html" : "",
+          "schema_version" : 2,
+          "widget_name" : "Vestaboard - Header",
+          "wrapping_html" : "",
+          "path" : "/Global content/Global Groups/Vestaboard/Vestaboard - Header"
+        },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "",
+        "label" : "",
+        "type" : "section_delimiter",
+        "params" : { },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_153781262053265",
+        "label" : "Page & Content Container",
+        "type" : "cell",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : false,
+          "per_widget_wrapper_html" : "",
+          "wrapping_html" : "<div class=\"page-container content-container content-container--narrow v-header--offset\">\n\t<div class=\"v-legal\">\n  \t{{html}}\n  </div>\n</div>"
+        },
+        "rows" : [ {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_153781369314587",
+            "label" : "Rich text",
+            "type" : "rich_text",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "html" : "<h3>TERMS &amp; CONDITIONS FOR ONLINE OFFERS TO PURCHASE</h3>\n<p>Please read all of these terms and conditions (“Terms”) carefully before submitting your pre-order for a Vestaboard, Inc. connected mechanical display (the “Product”). By submitting your pre-order, you agree to be legally bound by these Terms.</p>\n<p>As explained in these Terms in more detail:</p>\n<ul>\n<li>These Terms provide that all disputes related to these Terms will be resolved by BINDING ARBITRATION. YOU AGREE TO GIVE UP YOUR RIGHT TO GO TO COURT to assert or defend your rights under this contract (except for matters that may be taken to small claims court). Your rights will be determined by a NEUTRAL ARBITRATOR and NOT a judge or jury and your claims cannot be brought as a class action. Please review the Arbitration Agreement in Section 18 for the details regarding your agreement to arbitrate any disputes arising under these Terms. (See Section 18)</li>\n<li>By submitting your pre-order, you are offering to purchase a Product from us. We may reject your offer and refund all amounts paid by you. (See Section 1)</li>\n<li>Specifications for our Products may change from the specifications currently published on our website. (See Section 4)</li>\n<li>Shipping of the Products may be significantly delayed. (See Section 5)</li>\n<li>Any warranty we make available for our Products will be published before we accept your offer to purchase the Product, and you will have the opportunity to rescind your offer and receive a full refund of all amounts you paid if the warranty terms are not to your liking. (See Section 11)</li>\n<li>Using the Product requires an active Internet connection and an account on the Vestaboard Service. Use of the Vestaboard Service is subject to the Vestaboard Terms of Service. (See Section 9).</li>\n<li>Vestaboard’s liability is limited. (See Sections 1 and 12)</li>\n</ul>\n<ol>\n<li><strong>Pre-Order and Acceptance.</strong>&nbsp;Each pre-order you submit for a Product constitutes an offer to purchase that Product. Pre-orders are complete when you provide your shipping address to us. Completed pre-orders are subject to Vestaboard’s acceptance and may be rejected at any time and for any reason at Vestaboard’s discretion. If Vestaboard rejects your offer, Vestaboard will, as your sole and exclusive remedy and Vestaboard’s sole and exclusive liability, refund the amount you paid as described in Section 4. Vestaboard will send you an email to the address provided by you once Products are shipping to indicate whether your pre-order has been accepted or rejected. If you have any questions, comments, or concerns regarding Vestaboard’s pre-order acceptance policy, or if you believe that your pre-order was rejected in error, please contact Vestaboard at support@vestaboard.com. If you do not provide your shipping information within 30 days of Vestaboard’s request, Vestaboard may, at its sole discretion, provide you a full refund of the amount you paid or continue to attempt to contact you. Vestaboard will make reasonable efforts to contact you to provide a refund after that 30 day period, but if Vestaboard does not receive a response from you within 90 days of Vestaboard’s initial request for your shipping address, or if Vestaboard is not able to process your refund after that 30 day period (for example, due to a cancelled credit card or closed PayPal account), then Vestaboard will treat the amount that you paid as unclaimed property in accordance with applicable law.</li>\n<li><strong>Eligibility.</strong>&nbsp;You must be at least 18 years old to offer to purchase a Product. By agreeing to these Terms, you represent and warrant to us that you are at least 18 years old. If you are offering to purchase a Product on behalf of an entity, organization, or company, you represent and warrant that you have the authority to bind that organization to these Terms and you agree to be bound by these Terms on behalf of that organization.</li>\n<li><strong>Payment.</strong>&nbsp;In order for your offer to be eligible for Vestaboard’s acceptance, you must pay the amount for the Product elected by you as set forth on the Vestaboard website by credit card through Stripe, or any other payment method designated on our website. Payment does not guarantee acceptance of your pre-order.</li>\n<li><strong>Specifications; Refunds.</strong>&nbsp;We want you to be totally happy with the Product, but please be aware that the specifications for the Products may change prior to shipping. If you request a refund at any time before we accept your pre-order, we will process it promptly, and we will refund the full amount you paid. Once you provide your shipping address and we have accepted your offer, the policy in the immediately preceding sentence no longer applies. Instead, Vestaboard’s refund policy and limited warranties will apply. The Vestaboard refund policy will be published on the Vestaboard website at the time when Vestaboard begins shipping Products (“Refund Policy”). For further information on Vestaboard’s limited warranties, please see Section 11 of these Terms.</li>\n<li><strong>Shipping and Delay.</strong>&nbsp;The Products are not ready for public delivery. A public shipping estimate of December 2018 has been provided for 2018 and it will be no sooner than that date unless otherwise agreed with you and the actual shipping date for any accepted pre-order may be longer than December 2018, and will depend on a variety of factors including manufacturing schedule, the date of your pre-order, your completed payment of shipping and taxes, and when we accept your completed pre-order. Commencement of shipping is subject to change without notice to you. We have not yet determined shipping charges for each country, and you will be required to pay all shipping charges for the location of the address you provide at the time of delivery. You must also pay all tariff, import, customs, tax, and other charges applicable in your jurisdiction. If shipping costs to the address that you provide for an accepted pre-order are higher than the shipping costs you paid at the time that you offered to purchase a Product, Vestaboard may, in its sole discretion, require you to pay additional shipping fees or refund the full amount you paid.</li>\n<li><strong>Transfer of Risk and Title.</strong>&nbsp;Risk of loss of the Product passes to you on Vestaboard’s delivery of the Product to the carrier, and you are responsible for any loss or damage to the Product from that point. Claims against a carrier for damage during shipping are your responsibility.</li>\n<li><strong>Taxes.</strong>&nbsp;All import duties, taxes, and other charges are not included in the Product price or shipping cost. These charges are your responsibility. Please check with your state and country’s customs office to determine what these additional costs will be prior to completing your pre-order. If you have already placed a pre-order and discovered that such taxes make your pre-order untenable for you, please contact Vestaboard Support to rescind your pre-order, and we will refund the amount you paid in connection with your pre-order in full.</li>\n<li><strong>Export Control.</strong>&nbsp;You acknowledge that Products may be subject to export control laws and other laws and regulations of the United States and other countries, and that if Vestaboard ships a Product to you, the Product may be impounded or otherwise confiscated by customs or other authorities. You are responsible for compliance with all applicable export control laws and regulations.&nbsp; You represent that you will not export, re-export, or transfer indirectly or directly any Product outside of the United States without obtaining proper authorization from the applicable government agencies. Without limiting the immediately preceding sentence, you will not export, re-export, or transfer directly or indirectly any Product to: (i) an embargoed/terrorist supporting country, including Cuba, Iran, North Korea, Syria, Sudan, or any other such country as determined by the US government; (ii) a person or entity barred by the US Government on export activity lists, including persons or entities on the Treasury Department Specially Designated National List, Entities List, and Denied Persons List; or (iii) any destination for an end use that is prohibited by applicable law. You will defend and hold Vestaboard harmless against all claims, damages, or liability resulting from breach of the foregoing.</li>\n<li><strong>Use of the Product; Vestaboard Service.</strong>&nbsp;You represent that the Product you have offered to purchase is for your own use and not for resale. Use of the Product may be subject to local laws, regulations, and ordinances in your jurisdiction, including air quality laws, noise control laws, and other health and safety laws. You are responsible for complying with all applicable laws. It is your responsibility to determine whether your use of the Product complies with local laws, regulations, and ordinances. You may request information about the Product from Vestaboard to assist you in making your determination, but Vestaboard will not be liable for errors in that information or for your determination. If you do not have sufficient information to determine whether your use of the Product will comply with all applicable laws, regulations, and ordinances, then you should not offer to purchase the Product. If you rescind your offer prior to our acceptance of it, we will refund to you the full amount you paid in connection with your offer. You must also use the Product in strict accordance with the user documentation provided together with the Product.<br>The Products will not work without an Internet connection and an account on the Vestaboard Service. Use of the Vestaboard Service is subject to the Vestaboard Terms of Service. If you violate the Vestaboard Terms of Service, you may not be able to use the Product or certain features of the Vestaboard Product. Vestaboard will not be liable for your inability to use the Product, and your sole and exclusive remedy will be to request a refund if allowed by the Vestaboard Refund Policy, described in Section 4.</li>\n<li><strong><strong>Intellectual Property.</strong>&nbsp;</strong>Vestaboard and its licensors own all intellectual property rights in the Products. If Vestaboard accepts your pre-order for a Product, you will acquire no interest or rights in Vestaboard’s intellectual property, and your use of the Product will be subject to the Vestaboard Terms of Service and other additional license terms and restrictions that will be provided together with the Product. Vestaboard reserves all rights in and to the Products not granted expressly in these Terms or other additional license terms.</li>\n<li><strong>Limited Warranty and Disclaimer.&nbsp;</strong>Vestaboard will be providing the details of its limited warranties for Products on Vestaboard’s website at vestaboard.com/warranty before Vestaboard requests your shipping address and accepts your offer to purchase. By providing your shipping address to us, you acknowledge and agree that you have reviewed the limited warranty for the Product you offered to purchase, and that you accept that limited warranty. Vestaboard will also provide the warranty terms for a Product together with the shipped Product. If you are dissatisfied with the warranty terms once published, you may contact Vestaboard Support to rescind your pre-order and we will refund the amount you paid in connection with your pre-order in full.&nbsp;<br>EXCEPT AS MAY BE EXPRESSLY PROVIDED BY VESTABOARD IN THE WARRANTY APPLICABLE TO A PRODUCT AT THE TIME THE ORDER FOR THE PRODUCT IS ACCEPTED, AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, PRODUCTS ARE PROVIDED “AS IS” AND “AS AVAILABLE”, WITH ALL FAULTS AND WITHOUT GUARANTEED WARRANTY OF ANY KIND, AND VESTABOARD HEREBY DISCLAIMS ALL OTHER WARRANTIES WITH RESPECT TO THE PRODUCT, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO: (A) THE IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, QUIET ENJOYMENT, AND NON-INFRINGEMENT OF THIRD PARTY RIGHTS; AND (B) ANY WARRANTY ARISING OUT OF COURSE OF DEALING, USAGE, OR TRADE. VESTABOARD DOES NOT WARRANT THAT USE OF ANY PRODUCT WILL BE UNINTERRUPTED OR FREE OF ERRORS OR OTHER HARMFUL COMPONENTS, AND DOES NOT WARRANT THAT ANY OF THOSE ISSUES WILL BE CORRECTED. VESTABOARD DOES NOT WARRANT THAT ANY PRODUCT COMPLIES WITH ALL APPLICABLE LAWS OR REGULATIONS IN ANY PARTICULAR JURISDICTION. TO THE EXTENT NOT PROHIBITED BY APPLICABLE LAW, YOU ASSUME ALL RISK FOR ANY DAMAGE THAT MAY RESULT FROM YOUR USE OF THE PRODUCT.</li>\n<li><strong>Limitation of Liability.</strong>&nbsp;TO THE EXTENT NOT PROHIBITED BY APPLICABLE LAW, IN NO EVENT WILL VESTABOARD BE LIABLE FOR PERSONAL INJURY, OR ANY INCIDENTAL, SPECIAL, INDIRECT, CONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER, ARISING OUT OF OR RELATED TO THESE TERMS OR YOUR USE OF OR INABILITY TO USE ANY PRODUCT, HOWEVER CAUSED, REGARDLESS OF THE THEORY OF LIABILITY (CONTRACT, TORT, OR OTHERWISE) AND EVEN IF VESTABOARD HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OF LIABILITY FOR PERSONAL INJURY, OR OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THIS LIMITATION MAY NOT APPLY TO YOU. You agree that if any lawsuit or court proceeding is permitted under these Terms, the aggregate liability of Vestaboard and its affiliates and suppliers to you for all claims arising out of or related to these Terms or your use or inability to use a Product will not (other than as may be required by applicable law in cases involving personal injury) exceed the amount you paid to Vestaboard for that Product. These limitations will apply even if the above stated remedy fails of its essential purpose. Each provision of these Terms that provides for a limitation of liability, disclaimer of warranties, or exclusion of damages is to allocate the risks under these Terms between the parties. This allocation is an essential element of the basis of the bargain between the parties.</li>\n<li><strong>Indemnity.</strong>&nbsp;You alone are responsible for the manner in which you use the Product. You shall defend, indemnify and hold harmless Vestaboard and its officers, directors, employees, agents, affiliates, and suppliers (“Indemnitees”) from and against every claim, liability, damage, loss, and expense, including reasonable attorneys’ fees and costs, arising out of or in any way connected with: (a) your use of, or alleged use of, any Product; (b) your violation of any portion of these Terms, any representation, warranty, or agreement referenced in these Terms, or any applicable law or regulation; (c) your violation of any third-party right, including any intellectual property right or publicity right; or (d) any dispute or issue between you and any third party. We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you (without limiting your indemnification obligations with respect to that matter), and in that case, you agree to cooperate with our defense of that claim.</li>\n<li><strong>Force Majeure.</strong>&nbsp;If Vestaboard accepts your offer to purchase a Product, Vestaboard will not be liable to you for any delay, including any delay due to an event beyond Vestaboard’s reasonable control, such as an act of God, terrorism, war, political insurgence, insurrection, riot, civil unrest, act of civil or military authority, uprising, earthquake, flood or any other natural or man-made eventuality outside of Vestaboard’s control.</li>\n<li><strong>Privacy.</strong>&nbsp;We describe all policies related to our collection and use of data in our Privacy Policy, which is incorporated by reference.&nbsp; We will significantly modify our Privacy Policy before we begin accepting pre-orders for and shipping Products, and will post the new Privacy Policy in the same location. If you do not agree with the Privacy Policy, you may request a refund before you provide your shipping information. If you have any questions or concerns regarding your privacy, please contact us.</li>\n<li><strong>Modification of these Terms.</strong>&nbsp;We reserve the right, at our discretion, to change these Terms on a going-forward basis at any time. Please check these Terms periodically for changes. If a change to these Terms materially modifies your rights or obligations, you will be required to accept the modified Terms in order for your pre-order to remain valid. Material modifications are effective upon your acceptance of the modified Terms. Immaterial modifications are effective upon publication. Disputes arising under these Terms will be resolved in accordance with the version of these Terms that was in effect at the time the dispute arose.</li>\n<li><strong>Controlling Law and Severability.</strong>&nbsp;These Terms will be governed by and construed in accordance with the laws of the State of California, excluding its conflict of law principles. These Terms will not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. If for any reason a court of competent jurisdiction finds any portion of these Terms to be unenforceable, the remainder of these Terms will continue in full force and effect.</li>\n<li><strong>Arbitration</strong>\n<p style=\"margin-left: 2rem;\">a.&nbsp;<strong>Generally.</strong>&nbsp;In the interest of resolving disputes between you and Vestaboard in the most expedient and cost effective manner, you and Vestaboard agree that every dispute arising in connection with these Terms will be resolved by binding arbitration. Arbitration is less formal than a lawsuit in court. Arbitration uses a neutral arbitrator instead of a judge or jury, may allow for more limited discovery than in court, and can be subject to very limited review by courts. Arbitrators can award the same damages and relief that a court can award. This agreement to arbitrate disputes includes all claims arising out of or relating to any aspect of these Terms, whether based in contract, tort, statute, fraud, misrepresentation, or any other legal theory, and regardless of whether a claim arises during or after the termination of these Terms. YOU UNDERSTAND AND AGREE THAT, BY ENTERING INTO THESE TERMS, YOU AND VESTABOARD ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION.</p>\n<p style=\"margin-left: 2rem;\">b.&nbsp;<strong>Exceptions.&nbsp;</strong>Despite the provisions of Section 18(f), nothing in these Terms will be deemed to waive, preclude, or otherwise limit the right of either party to: (a) bring an individual action in small claims court; (b) pursue an enforcement action through the applicable federal, state, or local agency if that action is available; (c) seek injunctive relief in a court of law; or (d) to file suit in a court of law to address an intellectual property infringement claim.</p>\n<p style=\"margin-left: 2rem;\">c.&nbsp;<strong>Arbitrator.</strong>&nbsp;Any arbitration between you and Vestaboard will be settled under the Federal Arbitration Act, and governed by the Commercial Dispute Resolution Procedures and the Supplementary Procedures for Consumer Related Disputes (collectively, “AAA Rules”) of the American Arbitration Association (“AAA”), as modified by these Terms, and will be administered by the AAA. The AAA Rules and filing forms are available online at www.adr.org, by calling the AAA at 1-800-778-7879, or by contacting Vestaboard.</p>\n<p style=\"margin-left: 2rem;\">d.&nbsp;<strong>Notice; Process.</strong>&nbsp;A party who intends to seek arbitration must first send a written notice of the dispute to the other party by certified U.S. Mail or by Federal Express (signature required) or, only if such other party has not provided a current physical address, then by electronic mail (“Notice”). Vestaboard’s address for Notice is: Vestaboard, Inc., 3525 Alameda de las Pulgas, Suite B, Menlo Park, CA 94025, USA. The Notice must: (a) describe the nature and basis of the claim or dispute; and (b) set forth the specific relief sought (“Demand”). The parties will make good faith efforts to resolve the claim directly, but if the parties do not reach an agreement to do so within 30 days after the Notice is received, you or Vestaboard may commence an arbitration proceeding. During the arbitration, the amount of any settlement offer made by you or Vestaboard must not be disclosed to the arbitrator until after the arbitrator makes a final decision and award, if any. If the dispute is finally resolved through arbitration in your favor, Vestaboard will pay you the highest of the following: (i) the amount awarded by the arbitrator, if any; (ii) the last written settlement amount offered by Vestaboard in settlement of the dispute prior to the arbitrator’s award; or (iii) $1,000.</p>\n<p style=\"margin-left: 2rem;\">e.&nbsp;<strong>Fees.</strong>&nbsp;If you commence arbitration in accordance with these Terms, Vestaboard will reimburse you for your payment of the filing fee, unless your claim is for more than $10,000, in which case the payment of any fees will be decided by the AAA Rules. Any arbitration hearing will take place at a location to be agreed upon in San Mateo County, California, USA, but if the claim is for $10,000 or less, you may choose whether the arbitration will be conducted: (a) solely on the basis of documents submitted to the arbitrator; (b) through a non-appearance based telephone hearing; or (c) by an in-person hearing as established by the AAA Rules in the county (or parish) of your billing address. If the arbitrator finds that either the substance of your claim or the relief sought in the Demand is frivolous or brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b), then the payment of all fees will be governed by the AAA Rules. In that case, you agree to reimburse Vestaboard for all monies previously disbursed by it that are otherwise your obligation to pay under the AAA Rules. Regardless of the manner in which the arbitration is conducted, the arbitrator must issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the decision and award, if any, are based. The arbitrator may make rulings and resolve disputes as to the payment and reimbursement of fees or expenses at any time during the proceeding and upon request from either party made within 14 days of the arbitrator’s ruling on the merits.</p>\n<p style=\"margin-left: 2rem;\">f.&nbsp;<strong>No Class Actions.</strong>&nbsp;YOU AND VESTABOARD AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. Further, unless both you and Vestaboard agree otherwise, the arbitrator may not consolidate more than one person’s claims, and may not otherwise preside over any form of a representative or class proceeding.</p>\n<p style=\"margin-left: 2rem;\">g.&nbsp;<strong>Modifications to this Arbitration Provision.&nbsp;</strong>If Vestaboard makes any future change to this arbitration provision, other than a change to Vestaboard’s address for Notice, you may reject the change by sending us written notice within 30 days of the change to Vestaboard’s address for Notice, in which case your account with Vestaboard will be immediately terminated and this arbitration provision, as in effect immediately prior to the changes you rejected will survive.</p>\n<p style=\"margin-left: 2rem;\">h.&nbsp;<strong>Enforceability.&nbsp;</strong>If Section 18(f) is found to be unenforceable or if the entirety of this Section 18 is found to be unenforceable, then the entirety of this Section 18 will be null and void and, in that case, the parties agree that the exclusive jurisdiction and venue described in Section 17 will govern any action arising out of or related to these Terms.</p>\n</li>\n<li><strong>Consent to Electronic Communications.</strong>&nbsp;By submitting your pre-order, you consent to receiving certain electronic communications from us as further described in our Privacy Policy. Please read our Privacy Policy to learn more about your choices regarding our electronic communications practices. You agree that any notices, agreements, disclosures, or other communications that we send to you electronically will satisfy any legal communication requirements, including that such communications be in writing.<br>&nbsp;</li>\n<li><strong>General.</strong>&nbsp;These Terms, together with the Privacy Policy and any other agreements expressly incorporated by reference into these Terms, are the entire and exclusive understanding and agreement between you and Vestaboard regarding your offer to purchase a Product and the other matters described in these Terms. These Terms may be amended only by a written agreement signed by authorized representatives of the parties to these Terms. You may not assign or transfer these Terms or your rights under these Terms, in whole or in part, by operation of law or otherwise, without our prior written consent. We may assign these Terms at any time without notice or consent. Use of section headers in these Terms is for convenience only and will not have any impact on the interpretation of any provision. Upon termination of these Terms, any provision that by its nature or express terms should survive, will survive, including Sections 3, 4, and 7-19.<br>&nbsp;</li>\n<li><strong>Contact Information.</strong>&nbsp;Vestaboard, Inc. is located at 3525 Alameda de las Puglas, Suite B, Menlo Park, CA, USA. You may contact us by sending correspondence to that address or by emailing us at support@vestaboard.com.</li>\n</ol>",
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "wrapping_html" : ""
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        } ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "",
+        "label" : "",
+        "type" : "section_delimiter",
+        "params" : { },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_1537819885645251",
+        "label" : "Vestaboard - Footer",
+        "type" : "custom_widget",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : true,
+          "per_widget_wrapper_html" : "",
+          "schema_version" : 2,
+          "widget_name" : "Vestaboard - Footer",
+          "wrapping_html" : "",
+          "path" : "/Global content/Global Groups/Vestaboard/Vestaboard - Footer"
+        },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    } ],
+    "rowMetaData" : [ ],
+    "cells" : [ ],
+    "cssId" : "",
+    "cssClass" : "",
+    "cssStyle" : "",
+    "styles" : null
+  }
+}

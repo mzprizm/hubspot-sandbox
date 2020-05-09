@@ -1,0 +1,568 @@
+{
+  "isAvailableForNewContent" : true,
+  "templateType" : 4,
+  "attachedStylesheets" : [ ],
+  "attachedJs" : [ ],
+  "customHead" : "",
+  "customFooter" : "",
+  "bodyClass" : "",
+  "bodyCss" : "",
+  "bodyEditable" : false,
+  "layoutData" : {
+    "x" : 0,
+    "w" : 12,
+    "name" : "",
+    "label" : "",
+    "type" : "cell",
+    "params" : { },
+    "rows" : [ {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_1537815980714162",
+        "label" : "Vestaboard - Header",
+        "type" : "custom_widget",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : true,
+          "per_widget_wrapper_html" : "",
+          "schema_version" : 2,
+          "widget_name" : "Vestaboard - Header",
+          "wrapping_html" : "",
+          "path" : "/Global content/Global Groups/Vestaboard/Vestaboard - Header"
+        },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "",
+        "label" : "",
+        "type" : "section_delimiter",
+        "params" : { },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_1538595402693156",
+        "label" : "Page Container",
+        "type" : "cell",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : false,
+          "per_widget_wrapper_html" : "",
+          "wrapping_html" : "<div class=\"page-container v-header--offset\">{{html}}</div>"
+        },
+        "rows" : [ {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_1538597190877898",
+            "label" : "Vestaboard - Video",
+            "type" : "custom_widget",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Vestaboard - Video",
+              "wrapping_html" : "",
+              "path" : "/Custom modules/Vestaboard - Video"
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_153781262053265",
+            "label" : "Content Container",
+            "type" : "cell",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "overrideable" : false,
+              "per_widget_wrapper_html" : "",
+              "wrapping_html" : "<div class=\"bg-black\">\n\t<div class=\"content-container\">\n  \t<div class=\"v-home__hero\">\n    \t{{html}}\n    </div>\n  </div>\n</div>"
+            },
+            "rows" : [ {
+              "0" : {
+                "x" : 0,
+                "w" : 12,
+                "name" : "module_153781186906228",
+                "label" : "Header",
+                "type" : "header",
+                "params" : {
+                  "css_class" : "v-home__hero__header",
+                  "css_id" : "",
+                  "css_id_str" : "",
+                  "css_style" : "",
+                  "header_tag" : "h1",
+                  "overrideable" : true,
+                  "per_widget_wrapper_html" : "",
+                  "value" : "Connect and inspire with Vestaboard",
+                  "wrapping_html" : ""
+                },
+                "rows" : [ ],
+                "rowMetaData" : [ ],
+                "cells" : [ ],
+                "cssId" : "",
+                "cssClass" : "v-home__hero__header",
+                "cssStyle" : "",
+                "styles" : null
+              }
+            }, {
+              "0" : {
+                "x" : 0,
+                "w" : 12,
+                "name" : "module_1538595733567289",
+                "label" : "Rich Text",
+                "type" : "custom_widget",
+                "params" : {
+                  "css_class" : "",
+                  "css_id" : "",
+                  "css_id_str" : "",
+                  "css_style" : "",
+                  "html" : "<p class=\"tc t-large gray-light\">We've totally re-imagined the design of a split-flap display you might see at a train station in Europe. Using your mobile device you can send it messages, get updates, or show patterns and colors.</p>",
+                  "overrideable" : true,
+                  "per_widget_wrapper_html" : "",
+                  "schema_version" : 2,
+                  "widget_name" : "Rich Text",
+                  "wrapping_html" : "",
+                  "path" : "@hubspot/rich_text"
+                },
+                "rows" : [ ],
+                "rowMetaData" : [ ],
+                "cells" : [ ],
+                "cssId" : "",
+                "cssClass" : "",
+                "cssStyle" : "",
+                "styles" : null
+              }
+            } ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_1538596035079433",
+            "label" : "Vestaboard - Use Case - Home",
+            "type" : "custom_widget",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "image_secondary" : [ {
+                "alt" : "vestaboard--use-case--home-2",
+                "height" : 300,
+                "src" : "https://cdn2.hubspot.net/hubfs/1984131/vestaboard--use-case--home-2.png",
+                "width" : 300
+              }, {
+                "alt" : "vestaboard--use-case--home-3",
+                "height" : 300,
+                "src" : "https://cdn2.hubspot.net/hubfs/1984131/vestaboard--use-case--home-3.png",
+                "width" : 300
+              } ],
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Vestaboard - Use Case - Home",
+              "wrapping_html" : "",
+              "path" : "/Custom modules/Vestaboard - Use Case - Home"
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_15386043678605150",
+            "label" : "Vestaboard - Use Case - Work",
+            "type" : "custom_widget",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "image_primary" : {
+                "alt" : "vestaboard--use-case--work-1",
+                "height" : 500,
+                "src" : "https://cdn2.hubspot.net/hubfs/1984131/vestaboard--use-case--work-1.png",
+                "width" : 500
+              },
+              "image_secondary" : [ {
+                "alt" : "vestaboard--use-case--work-2",
+                "height" : 300,
+                "src" : "https://cdn2.hubspot.net/hubfs/1984131/vestaboard--use-case--work-2.png",
+                "width" : 300
+              }, {
+                "alt" : "vestaboard--use-case--work-3",
+                "height" : 300,
+                "src" : "https://cdn2.hubspot.net/hubfs/1984131/vestaboard--use-case--work-3.png",
+                "width" : 300
+              } ],
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Vestaboard - Use Case - Work",
+              "wrapping_html" : "",
+              "path" : "/Custom modules/Vestaboard - Use Case - Work"
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_15385981336121189",
+            "label" : "Vestaboard - Mobile App",
+            "type" : "custom_widget",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "image" : {
+                "alt" : "vestaboard--press-assets--app-hi",
+                "height" : 1022,
+                "src" : "https://cdn2.hubspot.net/hubfs/1984131/vestaboard--press-assets--app-hi.png",
+                "width" : 1022
+              },
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Vestaboard - Mobile App",
+              "wrapping_html" : "",
+              "path" : "/Custom modules/Vestaboard - Mobile App"
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_15385995614861857",
+            "label" : "Vestaboard - Sync with Apps",
+            "type" : "custom_widget",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "image" : [ {
+                "alt" : "vestaboard--sync-with-apps--1",
+                "height" : 231,
+                "src" : "https://cdn2.hubspot.net/hubfs/1984131/vestaboard--sync-with-apps--1.png",
+                "width" : 750
+              }, {
+                "alt" : "vestaboard--sync-with-apps--2",
+                "height" : 230,
+                "src" : "https://cdn2.hubspot.net/hubfs/1984131/vestaboard--sync-with-apps--2.png",
+                "width" : 750
+              } ],
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Vestaboard - Sync with Apps",
+              "wrapping_html" : "",
+              "path" : "/Custom modules/Vestaboard - Sync with Apps"
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_15386012165902811",
+            "label" : "Vestaboard - Works with Alexa",
+            "type" : "custom_widget",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Vestaboard - Works with Alexa",
+              "wrapping_html" : "",
+              "path" : "/Custom modules/Vestaboard - Works with Alexa"
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_15386007781092689",
+            "label" : "Vestaboard - The team",
+            "type" : "custom_widget",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Vestaboard - The team",
+              "wrapping_html" : "",
+              "path" : "/Custom modules/Vestaboard - The Team"
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_15386004774592221",
+            "label" : "Content Container",
+            "type" : "cell",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "overrideable" : false,
+              "per_widget_wrapper_html" : "",
+              "wrapping_html" : "<div class=\"bg-black\">\n\t<div class=\"content-container\">\n  \t<div class=\"v-home__trade\">\n      {{html}}\n    </div>\n  </div>\n</div>"
+            },
+            "rows" : [ {
+              "0" : {
+                "x" : 0,
+                "w" : 12,
+                "name" : "module_15386004774592222",
+                "label" : "Header",
+                "type" : "header",
+                "params" : {
+                  "css_class" : "v-home__trade__header",
+                  "css_id" : "",
+                  "css_id_str" : "",
+                  "css_style" : "",
+                  "header_tag" : "h1",
+                  "overrideable" : true,
+                  "per_widget_wrapper_html" : "",
+                  "value" : "Vestaboard trade program",
+                  "wrapping_html" : ""
+                },
+                "rows" : [ ],
+                "rowMetaData" : [ ],
+                "cells" : [ ],
+                "cssId" : "",
+                "cssClass" : "v-home__trade__header",
+                "cssStyle" : "",
+                "styles" : null
+              }
+            }, {
+              "0" : {
+                "x" : 0,
+                "w" : 12,
+                "name" : "module_15386004903752248",
+                "label" : "Call-to-Action",
+                "type" : "custom_widget",
+                "params" : {
+                  "css_class" : "v-home__trade__cta",
+                  "css_id" : "",
+                  "css_id_str" : "",
+                  "css_style" : "",
+                  "guid" : "c0dc0542-3bd2-4664-b633-d958f9641129",
+                  "overrideable" : true,
+                  "per_widget_wrapper_html" : "",
+                  "schema_version" : 2,
+                  "widget_name" : "Call-to-Action",
+                  "wrapping_html" : "",
+                  "path" : "@hubspot/cta"
+                },
+                "rows" : [ ],
+                "rowMetaData" : [ ],
+                "cells" : [ ],
+                "cssId" : "",
+                "cssClass" : "v-home__trade__cta",
+                "cssStyle" : "",
+                "styles" : null
+              }
+            } ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_153867398303692",
+            "label" : "Vestaboard - Modular design",
+            "type" : "custom_widget",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "cta" : "4150fa1f-29b4-460f-9b30-1cd7b053c425",
+              "dimension" : [ {
+                "dimension_content" : "<p><strong>Dimensions:</strong></p>\n<p>37 inches wide (94 cm)</p>\n<p>21 inches tall (53 cm)</p>\n<p>3.1 inches deep (8 cm)</p>\n<br>\n<p><strong>Weight:</strong></p>\n<p>30 pounds (13.6 kg)</p>\n<br>\n<p><strong>Color:</strong></p>\n<p>Off-black</p>",
+                "dimension_header" : "Size, Weight, and Color"
+              }, {
+                "dimension_content" : "<p><strong>Wall Mount:</strong></p>\n<p>French cleat</p>\n<br>\n<p><strong>Power:</strong></p>\n<p>Standard 3-prong plug (120/240V)</p>\n<p>International adapters included</p>",
+                "dimension_header" : "Install & Power"
+              }, {
+                "dimension_content" : "<p><strong>Characters:</strong></p>\n<p>62 alphanumeric characters (shown above)</p>\n<p>8 art/pattern characters (TBD)</p>\n<br>\n<p><strong>Display:</strong></p>\n<p>Up to 161 characters at one time</p>",
+                "dimension_header" : "Features"
+              }, {
+                "dimension_content" : "<p>802.11 b/g/n Wi-Fi with local hotspot pairing capability</p>",
+                "dimension_header" : "Wireless"
+              } ],
+              "header" : "A modular design",
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Vestaboard - Modular design",
+              "wrapping_html" : "",
+              "path" : "/Custom modules/Vestaboard - Modular Design"
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        } ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "",
+        "label" : "",
+        "type" : "section_delimiter",
+        "params" : { },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_1537819885645251",
+        "label" : "Vestaboard - Footer",
+        "type" : "custom_widget",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : true,
+          "per_widget_wrapper_html" : "",
+          "schema_version" : 2,
+          "widget_name" : "Vestaboard - Footer",
+          "wrapping_html" : "",
+          "path" : "/Global content/Global Groups/Vestaboard/Vestaboard - Footer"
+        },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    } ],
+    "rowMetaData" : [ ],
+    "cells" : [ ],
+    "cssId" : "",
+    "cssClass" : "",
+    "cssStyle" : "",
+    "styles" : null
+  }
+}

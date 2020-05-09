@@ -1,0 +1,382 @@
+{
+  "isAvailableForNewContent" : true,
+  "templateType" : 4,
+  "attachedStylesheets" : [ ],
+  "attachedJs" : [ ],
+  "customHead" : "",
+  "customFooter" : "",
+  "bodyClass" : "",
+  "bodyCss" : "",
+  "bodyEditable" : false,
+  "layoutData" : {
+    "x" : 0,
+    "w" : 12,
+    "name" : "",
+    "label" : "",
+    "type" : "cell",
+    "params" : { },
+    "rows" : [ {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_1568228355160168",
+        "label" : "Vestaboard - Header without CTA",
+        "type" : "custom_widget",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : true,
+          "path" : "/Global content/Global Groups/Vestaboard/Vestaboard - Header without CTA",
+          "per_widget_wrapper_html" : "",
+          "schema_version" : 2,
+          "widget_name" : "Vestaboard - Header without CTA",
+          "wrapping_html" : ""
+        },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "",
+        "label" : "",
+        "type" : "section_delimiter",
+        "params" : { },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_1568057892822161",
+        "label" : "Page Container",
+        "type" : "cell",
+        "params" : {
+          "css_class" : "page-container",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : false,
+          "per_widget_wrapper_html" : "",
+          "wrapping_html" : ""
+        },
+        "rows" : [ {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_1568061271901289",
+            "label" : "Order",
+            "type" : "cell",
+            "params" : {
+              "css_class" : "v-reserve__main",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "overrideable" : false,
+              "per_widget_wrapper_html" : "",
+              "wrapping_html" : ""
+            },
+            "rows" : [ {
+              "0" : {
+                "x" : 0,
+                "w" : 7,
+                "name" : "module_1568065985132547",
+                "label" : "Flexible column",
+                "type" : "widget_container",
+                "params" : {
+                  "css_class" : "v-reserve__gallery__container",
+                  "css_id" : "",
+                  "css_id_str" : "",
+                  "css_style" : "",
+                  "overrideable" : false,
+                  "per_widget_wrapper_html" : "",
+                  "wrapping_html" : ""
+                },
+                "rows" : [ ],
+                "rowMetaData" : [ ],
+                "cells" : [ ],
+                "cssId" : "",
+                "cssClass" : "v-reserve__gallery__container",
+                "cssStyle" : "",
+                "styles" : null
+              },
+              "7" : {
+                "x" : 7,
+                "w" : 5,
+                "name" : "module_1568677498370394",
+                "label" : "Module group",
+                "type" : "cell",
+                "params" : {
+                  "css_class" : "v-reserve__main__right",
+                  "css_id" : "",
+                  "css_id_str" : "",
+                  "css_style" : "",
+                  "overrideable" : false,
+                  "per_widget_wrapper_html" : "",
+                  "wrapping_html" : ""
+                },
+                "rows" : [ {
+                  "0" : {
+                    "x" : 0,
+                    "w" : 12,
+                    "name" : "module_1568683796735724",
+                    "label" : "Module group",
+                    "type" : "widget_container",
+                    "params" : {
+                      "css_class" : "v-reserve__header",
+                      "css_id" : "",
+                      "css_id_str" : "",
+                      "css_style" : "",
+                      "overrideable" : false,
+                      "per_widget_wrapper_html" : "",
+                      "wrapping_html" : ""
+                    },
+                    "rows" : [ ],
+                    "rowMetaData" : [ ],
+                    "cells" : [ ],
+                    "cssId" : "",
+                    "cssClass" : "v-reserve__header",
+                    "cssStyle" : "",
+                    "styles" : null
+                  }
+                }, {
+                  "0" : {
+                    "x" : 0,
+                    "w" : 12,
+                    "name" : "module_1568067591253934",
+                    "label" : "Desktop description",
+                    "type" : "custom_widget",
+                    "params" : {
+                      "css_class" : "v-reserve__description v-reserve-desktop_only",
+                      "css_id" : "",
+                      "css_id_str" : "",
+                      "css_style" : "",
+                      "html" : "<p style=\"line-height: 1; font-size: 21px;\"><span style=\"color: #000000; font-family: helvetica;\">Total: <strong>$2,250.00</strong></span></p>\n<p style=\"line-height: 1; font-size: 8px;\">&nbsp;</p>\n<p style=\"line-height: 1;\"><span style=\"color: #7c878e; font-family: helvetica;\"><strong>Reserve now with 50% deposit</strong></span></p>\n<p style=\"line-height: 1;\"><span style=\"font-size: 13px; color: #7c878e; font-family: helvetica;\">*Excludes shipping and taxes</span></p>\n<p style=\"line-height: 1; font-size: 8px;\">&nbsp;</p>\n<p style=\"line-height: 1;\"><span style=\"font-family: helvetica;\"><strong>Reserve now and save!</strong></span></p>\n<p style=\"line-height: 1;\"><span style=\"color: #7c878e; font-size: 13px; font-family: helvetica;\">On October 19th, Vestaboard will be increasing our price closer to expected MSRP at $3,495.</span></p>",
+                      "overrideable" : true,
+                      "path" : "@hubspot/rich_text",
+                      "per_widget_wrapper_html" : "",
+                      "schema_version" : 2,
+                      "widget_name" : "Rich Text",
+                      "wrapping_html" : ""
+                    },
+                    "rows" : [ ],
+                    "rowMetaData" : [ ],
+                    "cells" : [ ],
+                    "cssId" : "",
+                    "cssClass" : "v-reserve__description v-reserve-desktop_only",
+                    "cssStyle" : "",
+                    "styles" : null
+                  }
+                }, {
+                  "0" : {
+                    "x" : 0,
+                    "w" : 12,
+                    "name" : "module_156955228123728",
+                    "label" : "Mobile description",
+                    "type" : "custom_widget",
+                    "params" : {
+                      "css_class" : "v-reserve__description v-reserve-mobile_only",
+                      "css_id" : "",
+                      "css_id_str" : "",
+                      "css_style" : "",
+                      "html" : "<p style=\"line-height: 1; font-size: 18px;\"><span style=\"color: #000000; font-family: helvetica;\">Total: <strong>$2,250.00</strong></span></p>\n<p style=\"line-height: 1; font-size: 6px;\">&nbsp;</p>\n<p style=\"line-height: 1; font-size: 14px;\"><span style=\"color: #7c878e; font-family: helvetica;\"><strong>Reserve now with 50% deposit</strong></span></p>\n<p style=\"line-height: 1.25; font-size: 11px;\"><span style=\"color: #7c878e; font-family: helvetica;\">*Excludes shipping and taxes</span></p>\n<p style=\"line-height: 1; font-size: 8px;\">&nbsp;</p>\n<p style=\"line-height: 1; font-size: 14px;\"><span style=\"font-family: helvetica;\"><strong>Reserve now and save!</strong></span></p>\n<p style=\"line-height: 1.25; font-size: 11px;\"><span style=\"color: #7c878e; font-family: helvetica;\">On October 19th, Vestaboard will be increasing our price closer to expected MSRP at $3,495. <span style=\"color: #7c878e; font-family: helvetica;\">Architect and designers in private practice or within a business can <span style=\"text-decoration: underline; color: #9fc5e8;\"><a href=\"/trade\" rel=\"noopener\" target=\"_blank\" style=\"color: #9fc5e8; text-decoration: underline;\"><span style=\"color: #3d85c6; text-decoration: underline;\"><span style=\"font-family: helvetica;\">contact</span> us</span></a></span> for special discounts and terms.</span></span></p>",
+                      "overrideable" : true,
+                      "path" : "@hubspot/rich_text",
+                      "per_widget_wrapper_html" : "",
+                      "schema_version" : 2,
+                      "widget_name" : "Rich Text",
+                      "wrapping_html" : ""
+                    },
+                    "rows" : [ ],
+                    "rowMetaData" : [ ],
+                    "cells" : [ ],
+                    "cssId" : "",
+                    "cssClass" : "v-reserve__description v-reserve-mobile_only",
+                    "cssStyle" : "",
+                    "styles" : null
+                  }
+                }, {
+                  "0" : {
+                    "x" : 0,
+                    "w" : 12,
+                    "name" : "module_1583091334851434",
+                    "label" : "Temp Form",
+                    "type" : "widget_container",
+                    "params" : {
+                      "css_class" : "reserve-temp-form-div",
+                      "css_id" : "",
+                      "css_id_str" : "",
+                      "css_style" : "",
+                      "overrideable" : false,
+                      "per_widget_wrapper_html" : "",
+                      "wrapping_html" : ""
+                    },
+                    "rows" : [ ],
+                    "rowMetaData" : [ ],
+                    "cells" : [ ],
+                    "cssId" : "",
+                    "cssClass" : "reserve-temp-form-div",
+                    "cssStyle" : "",
+                    "styles" : null
+                  }
+                } ],
+                "rowMetaData" : [ ],
+                "cells" : [ ],
+                "cssId" : "",
+                "cssClass" : "v-reserve__main__right",
+                "cssStyle" : "",
+                "styles" : null
+              }
+            } ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "v-reserve__main",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_1568057974870167",
+            "label" : "Details",
+            "type" : "cell",
+            "params" : {
+              "css_class" : "v-reserve__details",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "overrideable" : false,
+              "per_widget_wrapper_html" : "",
+              "wrapping_html" : ""
+            },
+            "rows" : [ {
+              "0" : {
+                "x" : 0,
+                "w" : 6,
+                "name" : "module_1568057997966170",
+                "label" : "Module group",
+                "type" : "widget_container",
+                "params" : {
+                  "css_class" : "",
+                  "css_id" : "",
+                  "css_id_str" : "",
+                  "css_style" : "padding: 0 6vw;",
+                  "overrideable" : false,
+                  "per_widget_wrapper_html" : "",
+                  "wrapping_html" : ""
+                },
+                "rows" : [ ],
+                "rowMetaData" : [ ],
+                "cells" : [ ],
+                "cssId" : "",
+                "cssClass" : "",
+                "cssStyle" : "padding: 0 6vw;",
+                "styles" : null
+              },
+              "6" : {
+                "x" : 6,
+                "w" : 6,
+                "name" : "module_1568058000969172",
+                "label" : "Module group",
+                "type" : "widget_container",
+                "params" : {
+                  "css_class" : "",
+                  "css_id" : "",
+                  "css_id_str" : "",
+                  "css_style" : "padding: 0 6vw;",
+                  "overrideable" : false,
+                  "per_widget_wrapper_html" : "",
+                  "wrapping_html" : ""
+                },
+                "rows" : [ ],
+                "rowMetaData" : [ ],
+                "cells" : [ ],
+                "cssId" : "",
+                "cssClass" : "",
+                "cssStyle" : "padding: 0 6vw;",
+                "styles" : null
+              }
+            } ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "v-reserve__details",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        } ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "page-container",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "",
+        "label" : "",
+        "type" : "section_delimiter",
+        "params" : { },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_1568057833578156",
+        "label" : "Vestaboard - Footer",
+        "type" : "custom_widget",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : true,
+          "path" : "/Global content/Global Groups/Vestaboard/Vestaboard - Footer",
+          "per_widget_wrapper_html" : "",
+          "schema_version" : 2,
+          "widget_name" : "Vestaboard - Footer",
+          "wrapping_html" : ""
+        },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    } ],
+    "rowMetaData" : [ ],
+    "cells" : [ ],
+    "cssId" : "",
+    "cssClass" : "",
+    "cssStyle" : "",
+    "styles" : null
+  }
+}

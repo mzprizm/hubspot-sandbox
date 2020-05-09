@@ -1,0 +1,365 @@
+{
+  "isAvailableForNewContent" : true,
+  "templateType" : 4,
+  "attachedStylesheets" : [ ],
+  "attachedJs" : [ ],
+  "customHead" : "",
+  "customFooter" : "",
+  "bodyClass" : "",
+  "bodyCss" : "",
+  "bodyEditable" : false,
+  "layoutData" : {
+    "x" : 0,
+    "w" : 12,
+    "name" : "",
+    "label" : "",
+    "type" : "cell",
+    "params" : { },
+    "rows" : [ {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_1537815980714162",
+        "label" : "Vestaboard - Header",
+        "type" : "custom_widget",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : true,
+          "per_widget_wrapper_html" : "",
+          "schema_version" : 2,
+          "widget_name" : "Vestaboard - Header",
+          "wrapping_html" : "",
+          "path" : "/Global content/Global Groups/Vestaboard/Vestaboard - Header"
+        },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "",
+        "label" : "",
+        "type" : "section_delimiter",
+        "params" : { },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_153781262053265",
+        "label" : "Page & Content Container",
+        "type" : "cell",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : false,
+          "per_widget_wrapper_html" : "",
+          "wrapping_html" : "<div class=\"page-container content-container content-container--narrow v-header--offset\">\n  <div class=\"v-press\">\n  \t{{html}}\n  </div>\n</div>"
+        },
+        "rows" : [ {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_153781186906228",
+            "label" : "Header",
+            "type" : "header",
+            "params" : {
+              "css_class" : "v-press__header",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "header_tag" : "h1",
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "value" : "Press assets",
+              "wrapping_html" : ""
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "v-press__header",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_1538420210522715",
+            "label" : "Rich Text",
+            "type" : "custom_widget",
+            "params" : {
+              "css_class" : "v-press__subheader",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "html" : "<p class=\"tc\">High-resolution photos of Vestaboard and other brand assets are available below. You may use the images on your own properties or social media so long as you follow the guidelines listed above the assets:</p>",
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Rich Text",
+              "wrapping_html" : "",
+              "path" : "@hubspot/rich_text"
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "v-press__subheader",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_1538419501657311",
+            "label" : "Vestaboard - Press - Assets Group",
+            "type" : "custom_widget",
+            "params" : {
+              "asset" : [ {
+                "asset_image" : {
+                  "alt" : "vestaboard--press-assets--eleanor-16-9",
+                  "height" : 903,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Press%20-%20Assets/vestaboard--press-assets--eleanor-16-9.png",
+                  "width" : 1606
+                },
+                "asset_link" : "https://static1.squarespace.com/static/5532dfafe4b003aefe3e1f64/t/5976938be3df280c66bdb206/1500943594934/?format=2500w",
+                "asset_link_hi" : "https://s3-us-west-1.amazonaws.com/vestaboard.com/Backgrounds/Eleanor_Print_16x9.jpg",
+                "asset_link_low" : "https://static1.squarespace.com/static/5532dfafe4b003aefe3e1f64/t/5976938be3df280c66bdb206/1500943594934/?format=2500w",
+                "asset_name" : "Eleanor 16:9"
+              }, {
+                "asset_image" : {
+                  "alt" : "vestaboard--press-assets--living-space",
+                  "height" : 333,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Press%20-%20Assets/vestaboard--press-assets--living-space.png",
+                  "width" : 500
+                },
+                "asset_link" : "https://s3-us-west-1.amazonaws.com/vestaboard.com/Use_Cases/Art_4x6.png",
+                "asset_link_hi" : "https://s3-us-west-1.amazonaws.com/vestaboard.com/Use_Cases/Art_4x6.png",
+                "asset_link_low" : "https://static1.squarespace.com/static/5532dfafe4b003aefe3e1f64/5a55c867c8302598d1927843/5a55c94e24a694269631b931/1515571876798/Art_4x6.png?format=2500w",
+                "asset_name" : "Living Space"
+              }, {
+                "asset_image" : {
+                  "alt" : "vestaboard--press-assets--kitchen",
+                  "height" : 333,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Press%20-%20Assets/vestaboard--press-assets--kitchen.png",
+                  "width" : 500
+                },
+                "asset_link" : "https://s3-us-west-1.amazonaws.com/vestaboard.com/Use_Cases/kitchen_4x6.png",
+                "asset_link_hi" : "https://s3-us-west-1.amazonaws.com/vestaboard.com/Use_Cases/kitchen_4x6.png",
+                "asset_link_low" : "https://static1.squarespace.com/static/5532dfafe4b003aefe3e1f64/5a55c867c8302598d1927843/5a55c897ec212d5f4a926397/1515571560717/kitchen_4x6.png?format=2500w",
+                "asset_name" : "Kitchen"
+              } ],
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "group_class" : "scenes",
+              "group_description" : "Do not crop the images in a manner that removes any portion of the Vestaboard. (click image for full size)",
+              "group_header" : "Vestaboard Scenes",
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Vestaboard - Press - Assets Group",
+              "wrapping_html" : "",
+              "path" : "/Custom modules/Vestaboard - Press - Assets Group"
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_1538419812276475",
+            "label" : "Vestaboard - Press - Assets Group",
+            "type" : "custom_widget",
+            "params" : {
+              "asset" : [ {
+                "asset_image" : {
+                  "alt" : "vestaboard--press-assets--app",
+                  "height" : 500,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Press%20-%20Assets/vestaboard--press-assets--app.png",
+                  "width" : 500
+                },
+                "asset_link" : "https://static1.squarespace.com/static/5532dfafe4b003aefe3e1f64/t/5972b4266f4ca31f254d3e49/1500689495182/?format=500w",
+                "asset_link_hi" : "",
+                "asset_link_low" : "",
+                "asset_name" : "Vestaboard App"
+              } ],
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "group_class" : "assets",
+              "group_description" : "Do not crop the images in a manner that removes any portion of the Vestaboard or Vestaboard logos/icons. (click graphic for full size)",
+              "group_header" : "Vestaboard Assets",
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Vestaboard - Press - Assets Group",
+              "wrapping_html" : "",
+              "path" : "/Custom modules/Vestaboard - Press - Assets Group"
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_1538419799768438",
+            "label" : "Vestaboard - Press - Assets Group",
+            "type" : "custom_widget",
+            "params" : {
+              "asset" : [ {
+                "asset_image" : {
+                  "alt" : "vestaboard--press-assets--logo",
+                  "height" : 221,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Press%20-%20Assets/vestaboard--press-assets--logo.png",
+                  "width" : 1000
+                },
+                "asset_link" : "https://static1.squarespace.com/static/5532dfafe4b003aefe3e1f64/t/59729bf037c581dd461d28d7/1520298052761/?format=1000w",
+                "asset_link_hi" : "",
+                "asset_link_low" : "",
+                "asset_name" : "Vestaboard Logo"
+              }, {
+                "asset_image" : {
+                  "alt" : "vestaboard--press-assets--logo-on-white",
+                  "height" : 221,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Press%20-%20Assets/vestaboard--press-assets--logo-on-white.png",
+                  "width" : 1000
+                },
+                "asset_link" : "https://static1.squarespace.com/static/5532dfafe4b003aefe3e1f64/t/59729bff1b631b9a767fc20b/1520298080941/?format=1000w",
+                "asset_name" : "Vestaboard Logo on White"
+              }, {
+                "asset_image" : {
+                  "alt" : "vestaboard--press-assets--icon-square-white",
+                  "height" : 300,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Press%20-%20Assets/vestaboard--press-assets--icon-square-white.png",
+                  "width" : 300
+                },
+                "asset_link" : "https://static1.squarespace.com/static/5532dfafe4b003aefe3e1f64/t/5972a3a56f4ca31f254ca2b0/1500688476984/VB_Icon_SQ1.png?format=300w",
+                "asset_name" : "White Square Icon"
+              }, {
+                "asset_image" : {
+                  "alt" : "vestaboard--press-assets--icon-square-black",
+                  "height" : 300,
+                  "src" : "https://cdn2.hubspot.net/hubfs/1984131/Press%20-%20Assets/vestaboard--press-assets--icon-square-black.png",
+                  "width" : 300
+                },
+                "asset_link" : "https://static1.squarespace.com/static/5532dfafe4b003aefe3e1f64/t/5972a3aca5790aef87d36343/1500688480001/?format=300w",
+                "asset_name" : "Black Square Icon"
+              } ],
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "group_class" : "logos",
+              "group_description" : "Do not crop or adjust Vestaboard logos or icons. (click logo/icon for full size)",
+              "group_header" : "Vestaboard Logos & Icons",
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Vestaboard - Press - Assets Group",
+              "wrapping_html" : "",
+              "path" : "/Custom modules/Vestaboard - Press - Assets Group"
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        } ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "",
+        "label" : "",
+        "type" : "section_delimiter",
+        "params" : { },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_1537819885645251",
+        "label" : "Vestaboard - Footer",
+        "type" : "custom_widget",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : true,
+          "per_widget_wrapper_html" : "",
+          "schema_version" : 2,
+          "widget_name" : "Vestaboard - Footer",
+          "wrapping_html" : "",
+          "path" : "/Global content/Global Groups/Vestaboard/Vestaboard - Footer"
+        },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    } ],
+    "rowMetaData" : [ ],
+    "cells" : [ ],
+    "cssId" : "",
+    "cssClass" : "",
+    "cssStyle" : "",
+    "styles" : null
+  }
+}

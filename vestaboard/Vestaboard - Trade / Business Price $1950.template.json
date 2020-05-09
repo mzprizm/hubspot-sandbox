@@ -1,0 +1,778 @@
+{
+  "isAvailableForNewContent" : true,
+  "templateType" : 4,
+  "attachedStylesheets" : [ ],
+  "attachedJs" : [ ],
+  "customHead" : "",
+  "customFooter" : "",
+  "bodyClass" : "",
+  "bodyCss" : "",
+  "bodyEditable" : false,
+  "layoutData" : {
+    "x" : 0,
+    "w" : 12,
+    "name" : "",
+    "label" : "",
+    "type" : "cell",
+    "params" : { },
+    "rows" : [ {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_156927151913453",
+        "label" : "Vestaboard - Header without CTA",
+        "type" : "custom_widget",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : true,
+          "path" : "/Global content/Global Groups/Vestaboard/Vestaboard - Header without CTA",
+          "per_widget_wrapper_html" : "",
+          "schema_version" : 2,
+          "widget_name" : "Vestaboard - Header without CTA",
+          "wrapping_html" : ""
+        },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "",
+        "label" : "",
+        "type" : "section_delimiter",
+        "params" : { },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_153781262053265",
+        "label" : "Page & Content Container",
+        "type" : "cell",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : false,
+          "per_widget_wrapper_html" : "",
+          "wrapping_html" : "<div class=\"page-container content-container content-container--narrow v-header--offset\">\n\t<div class=\"v-simple-form\">\n  \t{{html}}\n  </div>\n</div>"
+        },
+        "rows" : [ {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_1574189229026112",
+            "label" : "Module group",
+            "type" : "cell",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "overrideable" : false,
+              "per_widget_wrapper_html" : "",
+              "wrapping_html" : ""
+            },
+            "rows" : [ {
+              "0" : {
+                "x" : 0,
+                "w" : 12,
+                "name" : "module_153781186906228",
+                "label" : "Header",
+                "type" : "header",
+                "params" : {
+                  "css_class" : "v-simple-form__header",
+                  "css_id" : "",
+                  "css_id_str" : "",
+                  "css_style" : "",
+                  "header_tag" : "h1",
+                  "overrideable" : true,
+                  "per_widget_wrapper_html" : "",
+                  "value" : "Header",
+                  "wrapping_html" : ""
+                },
+                "rows" : [ ],
+                "rowMetaData" : [ ],
+                "cells" : [ ],
+                "cssId" : "",
+                "cssClass" : "v-simple-form__header",
+                "cssStyle" : "",
+                "styles" : null
+              }
+            } ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_1574188682939108",
+            "label" : "Module group",
+            "type" : "cell",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "overrideable" : false,
+              "per_widget_wrapper_html" : "",
+              "wrapping_html" : ""
+            },
+            "rows" : [ {
+              "0" : {
+                "x" : 0,
+                "w" : 12,
+                "name" : "module_1574189233419115",
+                "label" : "Module group",
+                "type" : "cell",
+                "params" : {
+                  "css_class" : "",
+                  "css_id" : "",
+                  "css_id_str" : "",
+                  "css_style" : "",
+                  "overrideable" : false,
+                  "per_widget_wrapper_html" : "",
+                  "wrapping_html" : ""
+                },
+                "rows" : [ {
+                  "0" : {
+                    "x" : 0,
+                    "w" : 12,
+                    "name" : "module_1574892691573148",
+                    "label" : "Module group",
+                    "type" : "cell",
+                    "params" : {
+                      "css_class" : "",
+                      "css_id" : "",
+                      "css_id_str" : "",
+                      "css_style" : "",
+                      "overrideable" : false,
+                      "per_widget_wrapper_html" : "",
+                      "wrapping_html" : ""
+                    },
+                    "rows" : [ {
+                      "0" : {
+                        "x" : 0,
+                        "w" : 12,
+                        "name" : "module_1574892691573147",
+                        "label" : "Rich Text",
+                        "type" : "custom_widget",
+                        "params" : {
+                          "css_class" : "",
+                          "css_id" : "",
+                          "css_id_str" : "",
+                          "css_style" : "",
+                          "overrideable" : true,
+                          "path" : "@hubspot/rich_text",
+                          "per_widget_wrapper_html" : "",
+                          "schema_version" : 2,
+                          "widget_name" : "Rich Text",
+                          "wrapping_html" : ""
+                        },
+                        "rows" : [ ],
+                        "rowMetaData" : [ ],
+                        "cells" : [ ],
+                        "cssId" : "",
+                        "cssClass" : "",
+                        "cssStyle" : "",
+                        "styles" : null
+                      }
+                    }, {
+                      "0" : {
+                        "x" : 0,
+                        "w" : 12,
+                        "name" : "module_1574892581648141",
+                        "label" : "Module group",
+                        "type" : "cell",
+                        "params" : {
+                          "css_class" : "",
+                          "css_id" : "",
+                          "css_id_str" : "",
+                          "css_style" : "",
+                          "overrideable" : false,
+                          "per_widget_wrapper_html" : "",
+                          "wrapping_html" : ""
+                        },
+                        "rows" : [ {
+                          "0" : {
+                            "x" : 0,
+                            "w" : 12,
+                            "name" : "module_1574188682937107",
+                            "label" : "Call-to-Action",
+                            "type" : "custom_widget",
+                            "params" : {
+                              "css_class" : "",
+                              "css_id" : "",
+                              "css_id_str" : "",
+                              "css_style" : "",
+                              "overrideable" : true,
+                              "path" : "@hubspot/cta",
+                              "per_widget_wrapper_html" : "",
+                              "schema_version" : 2,
+                              "widget_name" : "Call-to-Action",
+                              "wrapping_html" : ""
+                            },
+                            "rows" : [ ],
+                            "rowMetaData" : [ ],
+                            "cells" : [ ],
+                            "cssId" : "",
+                            "cssClass" : "",
+                            "cssStyle" : "",
+                            "styles" : null
+                          }
+                        } ],
+                        "rowMetaData" : [ ],
+                        "cells" : [ ],
+                        "cssId" : "",
+                        "cssClass" : "",
+                        "cssStyle" : "",
+                        "styles" : null
+                      }
+                    } ],
+                    "rowMetaData" : [ ],
+                    "cells" : [ ],
+                    "cssId" : "",
+                    "cssClass" : "",
+                    "cssStyle" : "",
+                    "styles" : null
+                  }
+                }, {
+                  "0" : {
+                    "x" : 0,
+                    "w" : 12,
+                    "name" : "module_1574189229021111",
+                    "label" : "Call-to-Action",
+                    "type" : "custom_widget",
+                    "params" : {
+                      "css_class" : "",
+                      "css_id" : "",
+                      "css_id_str" : "",
+                      "css_style" : "",
+                      "overrideable" : true,
+                      "path" : "@hubspot/cta",
+                      "per_widget_wrapper_html" : "",
+                      "schema_version" : 2,
+                      "widget_name" : "Call-to-Action",
+                      "wrapping_html" : ""
+                    },
+                    "rows" : [ ],
+                    "rowMetaData" : [ ],
+                    "cells" : [ ],
+                    "cssId" : "",
+                    "cssClass" : "",
+                    "cssStyle" : "",
+                    "styles" : null
+                  }
+                }, {
+                  "0" : {
+                    "x" : 0,
+                    "w" : 12,
+                    "name" : "module_1574193925553115",
+                    "label" : "Call-to-Action",
+                    "type" : "custom_widget",
+                    "params" : {
+                      "css_class" : "",
+                      "css_id" : "",
+                      "css_id_str" : "",
+                      "css_style" : "",
+                      "overrideable" : true,
+                      "path" : "@hubspot/cta",
+                      "per_widget_wrapper_html" : "",
+                      "schema_version" : 2,
+                      "widget_name" : "Call-to-Action",
+                      "wrapping_html" : ""
+                    },
+                    "rows" : [ ],
+                    "rowMetaData" : [ ],
+                    "cells" : [ ],
+                    "cssId" : "",
+                    "cssClass" : "",
+                    "cssStyle" : "",
+                    "styles" : null
+                  }
+                }, {
+                  "0" : {
+                    "x" : 0,
+                    "w" : 12,
+                    "name" : "module_1574193938532117",
+                    "label" : "Rich Text",
+                    "type" : "custom_widget",
+                    "params" : {
+                      "css_class" : "",
+                      "css_id" : "",
+                      "css_id_str" : "",
+                      "css_style" : "",
+                      "overrideable" : true,
+                      "path" : "@hubspot/rich_text",
+                      "per_widget_wrapper_html" : "",
+                      "schema_version" : 2,
+                      "widget_name" : "Rich Text",
+                      "wrapping_html" : ""
+                    },
+                    "rows" : [ ],
+                    "rowMetaData" : [ ],
+                    "cells" : [ ],
+                    "cssId" : "",
+                    "cssClass" : "",
+                    "cssStyle" : "",
+                    "styles" : null
+                  }
+                } ],
+                "rowMetaData" : [ ],
+                "cells" : [ ],
+                "cssId" : "",
+                "cssClass" : "",
+                "cssStyle" : "",
+                "styles" : null
+              }
+            } ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_157246107125153",
+            "label" : "Module group",
+            "type" : "cell",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "overrideable" : false,
+              "per_widget_wrapper_html" : "",
+              "wrapping_html" : ""
+            },
+            "rows" : [ {
+              "0" : {
+                "x" : 0,
+                "w" : 12,
+                "name" : "module_153781369314587",
+                "label" : "Rich text",
+                "type" : "rich_text",
+                "params" : {
+                  "css_class" : "",
+                  "css_id" : "",
+                  "css_id_str" : "",
+                  "css_style" : "",
+                  "html" : "<p>If you are a corporate customer, architect, interior designer, or design professional and require an invoice for your Vestaboard(s) or that of a client, please fill out the following form to request an invoice. The preorder cost of Vestaboard is $1950 USD each by invoice and is also eligible for a deposit payment. The issuance of an invoice for the deposit will hold your place in line for delivery of a Vestaboard.</p>",
+                  "overrideable" : true,
+                  "per_widget_wrapper_html" : "",
+                  "wrapping_html" : ""
+                },
+                "rows" : [ ],
+                "rowMetaData" : [ ],
+                "cells" : [ ],
+                "cssId" : "",
+                "cssClass" : "",
+                "cssStyle" : "",
+                "styles" : null
+              }
+            }, {
+              "0" : {
+                "x" : 0,
+                "w" : 6,
+                "name" : "module_157246107125152",
+                "label" : "Call-to-Action",
+                "type" : "custom_widget",
+                "params" : {
+                  "css_class" : "",
+                  "css_id" : "",
+                  "css_id_str" : "",
+                  "css_style" : "",
+                  "overrideable" : true,
+                  "path" : "@hubspot/cta",
+                  "per_widget_wrapper_html" : "",
+                  "schema_version" : 2,
+                  "widget_name" : "Call-to-Action",
+                  "wrapping_html" : ""
+                },
+                "rows" : [ ],
+                "rowMetaData" : [ ],
+                "cells" : [ ],
+                "cssId" : "",
+                "cssClass" : "",
+                "cssStyle" : "",
+                "styles" : null
+              },
+              "6" : {
+                "x" : 6,
+                "w" : 6,
+                "name" : "module_157323816663980",
+                "label" : "Horizontal Spacer",
+                "type" : "custom_widget",
+                "params" : {
+                  "css_class" : "",
+                  "css_id" : "",
+                  "css_id_str" : "",
+                  "css_style" : "",
+                  "overrideable" : false,
+                  "path" : "@hubspot/horizontal_spacer",
+                  "per_widget_wrapper_html" : "",
+                  "schema_version" : 2,
+                  "widget_name" : "Horizontal Spacer",
+                  "wrapping_html" : ""
+                },
+                "rows" : [ ],
+                "rowMetaData" : [ ],
+                "cells" : [ ],
+                "cssId" : "",
+                "cssClass" : "",
+                "cssStyle" : "",
+                "styles" : null
+              }
+            }, {
+              "0" : {
+                "x" : 0,
+                "w" : 12,
+                "name" : "module_1582366960958120",
+                "label" : "Horizontal Spacer",
+                "type" : "custom_widget",
+                "params" : {
+                  "css_class" : "",
+                  "css_id" : "",
+                  "css_id_str" : "",
+                  "css_style" : "padding: 10px",
+                  "overrideable" : false,
+                  "path" : "@hubspot/horizontal_spacer",
+                  "per_widget_wrapper_html" : "",
+                  "schema_version" : 2,
+                  "widget_name" : "Horizontal Spacer",
+                  "wrapping_html" : ""
+                },
+                "rows" : [ ],
+                "rowMetaData" : [ ],
+                "cells" : [ ],
+                "cssId" : "",
+                "cssClass" : "",
+                "cssStyle" : "padding: 10px",
+                "styles" : null
+              }
+            }, {
+              "0" : {
+                "x" : 0,
+                "w" : 12,
+                "name" : "module_157246107897656",
+                "label" : "Rich Text",
+                "type" : "custom_widget",
+                "params" : {
+                  "css_class" : "",
+                  "css_id" : "",
+                  "css_id_str" : "",
+                  "css_style" : "",
+                  "overrideable" : true,
+                  "path" : "@hubspot/rich_text",
+                  "per_widget_wrapper_html" : "",
+                  "schema_version" : 2,
+                  "widget_name" : "Rich Text",
+                  "wrapping_html" : ""
+                },
+                "rows" : [ ],
+                "rowMetaData" : [ ],
+                "cells" : [ ],
+                "cssId" : "",
+                "cssClass" : "",
+                "cssStyle" : "",
+                "styles" : null
+              }
+            } ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 3,
+            "name" : "module_157204358986450",
+            "label" : "Image",
+            "type" : "custom_widget",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "img" : {
+                "alt" : "placeholder_200x200",
+                "height" : 200,
+                "size_type" : "auto",
+                "src" : "https://static.hubspot.com/final/img/content/email-template-images/placeholder_200x200.png",
+                "width" : 200
+              },
+              "overrideable" : true,
+              "path" : "@hubspot/linked_image",
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Image",
+              "wrapping_html" : ""
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          },
+          "11" : {
+            "x" : 11,
+            "w" : 1,
+            "name" : "module_157323845467783",
+            "label" : "Horizontal Spacer",
+            "type" : "custom_widget",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "overrideable" : false,
+              "path" : "@hubspot/horizontal_spacer",
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Horizontal Spacer",
+              "wrapping_html" : ""
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          },
+          "3" : {
+            "x" : 3,
+            "w" : 1,
+            "name" : "module_157323832169282",
+            "label" : "Horizontal Spacer",
+            "type" : "custom_widget",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "overrideable" : false,
+              "path" : "@hubspot/horizontal_spacer",
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Horizontal Spacer",
+              "wrapping_html" : ""
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          },
+          "4" : {
+            "x" : 4,
+            "w" : 3,
+            "name" : "module_157204359469352",
+            "label" : "Image",
+            "type" : "custom_widget",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "img" : {
+                "alt" : "placeholder_200x200",
+                "height" : 200,
+                "size_type" : "auto",
+                "src" : "https://static.hubspot.com/final/img/content/email-template-images/placeholder_200x200.png",
+                "width" : 200
+              },
+              "overrideable" : true,
+              "path" : "@hubspot/linked_image",
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Image",
+              "wrapping_html" : ""
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          },
+          "7" : {
+            "x" : 7,
+            "w" : 1,
+            "name" : "module_157323831786881",
+            "label" : "Horizontal Spacer",
+            "type" : "custom_widget",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "overrideable" : false,
+              "path" : "@hubspot/horizontal_spacer",
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Horizontal Spacer",
+              "wrapping_html" : ""
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          },
+          "8" : {
+            "x" : 8,
+            "w" : 3,
+            "name" : "module_157204359839653",
+            "label" : "Image",
+            "type" : "custom_widget",
+            "params" : {
+              "css_class" : "",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "img" : {
+                "alt" : "placeholder_200x200",
+                "height" : 200,
+                "size_type" : "auto",
+                "src" : "https://static.hubspot.com/final/img/content/email-template-images/placeholder_200x200.png",
+                "width" : 200
+              },
+              "overrideable" : true,
+              "path" : "@hubspot/linked_image",
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Image",
+              "wrapping_html" : ""
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_1537910273423452",
+            "label" : "Vestaboard - Horizontal Rule",
+            "type" : "custom_widget",
+            "params" : {
+              "css_class" : "v-horizontal-rule",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "overrideable" : false,
+              "path" : "/Vestaboard - Horizontal Rule",
+              "per_widget_wrapper_html" : "",
+              "schema_version" : 2,
+              "widget_name" : "Vestaboard - Horizontal Rule",
+              "wrapping_html" : ""
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "v-horizontal-rule",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        } ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "",
+        "label" : "",
+        "type" : "section_delimiter",
+        "params" : { },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_1537819885645251",
+        "label" : "Vestaboard - Footer",
+        "type" : "custom_widget",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : true,
+          "path" : "/Global content/Global Groups/Vestaboard/Vestaboard - Footer",
+          "per_widget_wrapper_html" : "",
+          "schema_version" : 2,
+          "widget_name" : "Vestaboard - Footer",
+          "wrapping_html" : ""
+        },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    } ],
+    "rowMetaData" : [ ],
+    "cells" : [ ],
+    "cssId" : "",
+    "cssClass" : "",
+    "cssStyle" : "",
+    "styles" : null
+  }
+}

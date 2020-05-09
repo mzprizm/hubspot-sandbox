@@ -1,0 +1,215 @@
+{
+  "isAvailableForNewContent" : true,
+  "templateType" : 4,
+  "attachedStylesheets" : [ ],
+  "attachedJs" : [ ],
+  "customHead" : "",
+  "customFooter" : "",
+  "bodyClass" : "",
+  "bodyCss" : "",
+  "bodyEditable" : false,
+  "layoutData" : {
+    "x" : 0,
+    "w" : 12,
+    "name" : "",
+    "label" : "",
+    "type" : "cell",
+    "params" : { },
+    "rows" : [ {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_1537815980714162",
+        "label" : "Vestaboard - Header",
+        "type" : "custom_widget",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : true,
+          "per_widget_wrapper_html" : "",
+          "schema_version" : 2,
+          "widget_name" : "Vestaboard - Header",
+          "wrapping_html" : "",
+          "path" : "/Global content/Global Groups/Vestaboard/Vestaboard - Header"
+        },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "",
+        "label" : "",
+        "type" : "section_delimiter",
+        "params" : { },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_153781262053265",
+        "label" : "Page & Content Container",
+        "type" : "cell",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : false,
+          "per_widget_wrapper_html" : "",
+          "wrapping_html" : "<div class=\"page-container content-container v-header--offset\">\n  <div class=\"v-thank-you\">\n    {{html}}\n  </div>\n</div>"
+        },
+        "rows" : [ {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_153781186906228",
+            "label" : "Header",
+            "type" : "header",
+            "params" : {
+              "css_class" : "v-thank-you__header",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "header_tag" : "h2",
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "value" : "Thank you",
+              "wrapping_html" : ""
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "v-thank-you__header",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_153781369314587",
+            "label" : "Rich text",
+            "type" : "rich_text",
+            "params" : {
+              "css_class" : "v-thank-you__content",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "html" : "<p class=\"t-large\" style=\"text-align: center;\">We received your information successfully.</p>",
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "wrapping_html" : ""
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "v-thank-you__content",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        }, {
+          "0" : {
+            "x" : 0,
+            "w" : 12,
+            "name" : "module_153781192326449",
+            "label" : "Call-to-Action",
+            "type" : "cta",
+            "params" : {
+              "css_class" : "v-thank-you__cta",
+              "css_id" : "",
+              "css_id_str" : "",
+              "css_style" : "",
+              "embed_code" : "<!--HubSpot Call-to-Action Code --><span class=\"hs-cta-wrapper\" id=\"hs-cta-wrapper-324234d4-0c3f-4e33-84d6-01936613b894\"><span class=\"hs-cta-node hs-cta-324234d4-0c3f-4e33-84d6-01936613b894\" id=\"hs-cta-324234d4-0c3f-4e33-84d6-01936613b894\"><!--[if lte IE 8]><div id=\"hs-cta-ie-element\"></div><![endif]--><a href=\"https://cta-redirect.hubspot.com/cta/redirect/1984131/324234d4-0c3f-4e33-84d6-01936613b894\" ><img class=\"hs-cta-img\" id=\"hs-cta-img-324234d4-0c3f-4e33-84d6-01936613b894\" style=\"border-width:0px;\" src=\"https://no-cache.hubspot.com/cta/default/1984131/324234d4-0c3f-4e33-84d6-01936613b894.png\"  alt=\"Return to Home Page\"/></a></span><script charset=\"utf-8\" src=\"https://js.hscta.net/cta/current.js\"></script><script type=\"text/javascript\"> hbspt.cta.load(1984131, '324234d4-0c3f-4e33-84d6-01936613b894', {}); </script></span><!-- end HubSpot Call-to-Action Code -->",
+              "guid" : "324234d4-0c3f-4e33-84d6-01936613b894",
+              "image_html" : "<!--HubSpot Call-to-Action Code --><span class=\"hs-cta-wrapper\" data-hs-img-pg=\"324234d4-0c3f-4e33-84d6-01936613b894\" id=\"hs-cta-wrapper-324234d4-0c3f-4e33-84d6-01936613b894\"><span class=\"hs-cta-node hs-cta-324234d4-0c3f-4e33-84d6-01936613b894\" id=\"hs-cta-324234d4-0c3f-4e33-84d6-01936613b894\"><a href=\"https://cta-image-cms2.hubspot.com/ctas/v2/public/cs/ci/?pg=324234d4-0c3f-4e33-84d6-01936613b894&pid=1984131&ecid={{encrypted_contact_id}}&hseid={{email_campaign_id}}&hsic={{impersonated_contact}}\" ><img class=\"hs-cta-img\" id=\"hs-cta-img-324234d4-0c3f-4e33-84d6-01936613b894\" style=\"border-width:0px;\" mce_noresize=\"1\" src=\"https://cta-image-cms2.hubspot.com/ctas/v2/public/cs/il/?pg=324234d4-0c3f-4e33-84d6-01936613b894&pid=1984131&ecid={{encrypted_contact_id}}&hseid={{email_campaign_id}}&hsic={{impersonated_contact}}\"  alt=\"Return to Home Page\" srcset=\"https://cta-image-cms2.hubspot.com/ctas/v2/public/cs/il/?pg=324234d4-0c3f-4e33-84d6-01936613b894&pid=1984131&ecid={{encrypted_contact_id}}&hseid={{email_campaign_id}}&hsic={{impersonated_contact}}&dsf=2 2x, https://cta-image-cms2.hubspot.com/ctas/v2/public/cs/il/?pg=324234d4-0c3f-4e33-84d6-01936613b894&pid=1984131&ecid={{encrypted_contact_id}}&hseid={{email_campaign_id}}&hsic={{impersonated_contact}}&dsf=3 3x, https://cta-image-cms2.hubspot.com/ctas/v2/public/cs/il/?pg=324234d4-0c3f-4e33-84d6-01936613b894&pid=1984131&ecid={{encrypted_contact_id}}&hseid={{email_campaign_id}}&hsic={{impersonated_contact}}&dsf=4 4x\"/></a></span></span><!-- end HubSpot Call-to-Action Code -->",
+              "image_src" : "https://no-cache.hubspot.com/cta/default/1984131/324234d4-0c3f-4e33-84d6-01936613b894.png",
+              "overrideable" : true,
+              "per_widget_wrapper_html" : "",
+              "wrapping_html" : ""
+            },
+            "rows" : [ ],
+            "rowMetaData" : [ ],
+            "cells" : [ ],
+            "cssId" : "",
+            "cssClass" : "v-thank-you__cta",
+            "cssStyle" : "",
+            "styles" : null
+          }
+        } ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "",
+        "label" : "",
+        "type" : "section_delimiter",
+        "params" : { },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    }, {
+      "0" : {
+        "x" : 0,
+        "w" : 12,
+        "name" : "module_1537819885645251",
+        "label" : "Vestaboard - Footer",
+        "type" : "custom_widget",
+        "params" : {
+          "css_class" : "",
+          "css_id" : "",
+          "css_id_str" : "",
+          "css_style" : "",
+          "overrideable" : true,
+          "per_widget_wrapper_html" : "",
+          "schema_version" : 2,
+          "widget_name" : "Vestaboard - Footer",
+          "wrapping_html" : "",
+          "path" : "/Global content/Global Groups/Vestaboard/Vestaboard - Footer"
+        },
+        "rows" : [ ],
+        "rowMetaData" : [ ],
+        "cells" : [ ],
+        "cssId" : "",
+        "cssClass" : "",
+        "cssStyle" : "",
+        "styles" : null
+      }
+    } ],
+    "rowMetaData" : [ ],
+    "cells" : [ ],
+    "cssId" : "",
+    "cssClass" : "",
+    "cssStyle" : "",
+    "styles" : null
+  }
+}
